@@ -3735,9 +3735,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="149.64615"
-     inkscape:cy="745.52167"
+     inkscape:zoom="1.4"
+     inkscape:cx="255.99904"
+     inkscape:cy="804.44142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3813,6 +3813,14 @@
     <use
        xlink:href="#ec2-elastic-ip"
        id="use18886" />
+    <use
+       id="use10973"
+       xlink:href="#ec2-instance"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-13.58239,-2.5778494)" />
   </g>
   <style
      id="style10494"
