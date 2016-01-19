@@ -1,0 +1,2 @@
+mkdir -p ~/.config/inkscape/symbols
+cp *.svg ~/.config/inkscape/symbols/

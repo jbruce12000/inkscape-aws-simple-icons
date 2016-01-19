@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="aws-compute.svg">
+  <title
+     id="title11142">AWS compute</title>
+  <defs
+     id="defs4">
+    <symbol
+       id="ec2">
+      <title
+         id="title10776">ec2</title>
+      <g
+         id="ec2_transform"
+         transform="matrix(0.75462839,0,0,0.75462839,48.168645,45.018889)">
+        <g
+           id="Layer_3" />
+        <g
+           id="Layer_1">
+          <g
+             id="g8699">
+            <polygon
+               id="polygon8701"
+               points="30.143,29.002 30.143,70.952 23.174,72.542 23.174,27.409 "
+               style="fill:#f58536" />
+            <polygon
+               id="polygon8703"
+               points="38.838,26.394 38.838,73.616 30.143,76.087 30.143,23.926 "
+               style="fill:#f58536" />
+            <polygon
+               id="polygon8705"
+               points="49.992,23.658 49.992,76.353 38.838,80.435 38.838,19.578 "
+               style="fill:#f58536" />
+            <polygon
+               id="polygon8707"
+               points="79.816,28.912 79.816,71.088 49.992,86 49.992,14 "
+               style="fill:#f58536" />
+            <polygon
+               id="polygon8709"
+               points="44.047,83.028 44.047,16.973 49.992,14 49.992,86 "
+               style="fill:#9d5025" />
+            <polygon
+               id="polygon8711"
+               points="34.236,78.122 34.236,21.878 38.838,19.577 38.838,80.423 "
+               style="fill:#9d5025" />
+            <polygon
+               id="polygon8713"
+               points="26.477,74.241 26.477,25.758 30.143,23.925 30.143,76.075 "
+               style="fill:#9d5025" />
+            <polygon
+               id="polygon8715"
+               points="23.174,72.591 23.174,27.409 20.184,28.904 20.184,71.097 "
+               style="fill:#9d5025" />
+          </g>
+        </g>
+        <g
+           display="none"
+           id="nyt_x5F_exporter_x5F_info"
+           style="display:none">
+          <text
+             id="text8718"
+             font-size="12"
+             display="inline"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8720"
+             font-size="12"
+             display="inline"
+             transform="translate(7.1519,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8722"
+             font-size="12"
+             display="inline"
+             transform="translate(13.6558,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8724"
+             font-size="12"
+             display="inline"
+             transform="translate(19.3076,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8726"
+             font-size="12"
+             display="inline"
+             transform="translate(23.2798,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8728"
+             font-size="12"
+             display="inline"
+             transform="translate(29.2798,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8730"
+             font-size="12"
+             display="inline"
+             transform="translate(36.1074,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text8732"
+             font-size="12"
+             display="inline"
+             transform="translate(39.9111,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8734"
+             font-size="12"
+             display="inline"
+             transform="translate(45.9229,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8736"
+             font-size="12"
+             display="inline"
+             transform="translate(49.3188,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8738"
+             font-size="12"
+             display="inline"
+             transform="translate(54.0713,0)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8740"
+             font-size="12"
+             display="inline"
+             transform="translate(0,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8742"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8744"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8746"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8748"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8750"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8752"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8754"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8756"
+             font-size="12"
+             display="inline"
+             transform="translate(41.1953,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text8758"
+             font-size="12"
+             display="inline"
+             transform="translate(44.999,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8760"
+             font-size="12"
+             display="inline"
+             transform="translate(51.0117,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8762"
+             font-size="12"
+             display="inline"
+             transform="translate(57.2881,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8764"
+             font-size="12"
+             display="inline"
+             transform="translate(62.8438,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text8766"
+             font-size="12"
+             display="inline"
+             transform="translate(69.9961,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8768"
+             font-size="12"
+             display="inline"
+             transform="translate(77.1484,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8770"
+             font-size="12"
+             display="inline"
+             transform="translate(22321204,-8141)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text8772"
+             font-size="12"
+             display="inline"
+             transform="translate(81.2646,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8774"
+             font-size="12"
+             display="inline"
+             transform="translate(87.7686,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8776"
+             font-size="12"
+             display="inline"
+             transform="translate(93.4209,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8778"
+             font-size="12"
+             display="inline"
+             transform="translate(97.3926,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8780"
+             font-size="12"
+             display="inline"
+             transform="translate(103.3926,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8782"
+             font-size="12"
+             display="inline"
+             transform="translate(110.2207,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text8784"
+             font-size="12"
+             display="inline"
+             transform="translate(114.0244,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8786"
+             font-size="12"
+             display="inline"
+             transform="translate(120.0361,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8788"
+             font-size="12"
+             display="inline"
+             transform="translate(126.3125,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8790"
+             font-size="12"
+             display="inline"
+             transform="translate(131.8682,14.3999)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text8792"
+             font-size="12"
+             display="inline"
+             transform="translate(29136948,-8141)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8794"
+             font-size="12"
+             display="inline"
+             transform="translate(0,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8796"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8798"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8800"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8802"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8804"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8806"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8808"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8810"
+             font-size="12"
+             display="inline"
+             transform="translate(39.1196,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">u</text>
+          <text
+             id="text8812"
+             font-size="12"
+             display="inline"
+             transform="translate(45.7314,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8814"
+             font-size="12"
+             display="inline"
+             transform="translate(55.5107,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8816"
+             font-size="12"
+             display="inline"
+             transform="translate(61.0664,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8818"
+             font-size="12"
+             display="inline"
+             transform="translate(68.2188,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text8820"
+             font-size="12"
+             display="inline"
+             transform="translate(75.3711,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8822"
+             font-size="12"
+             display="inline"
+             transform="translate(-6061,-8141)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8824"
+             font-size="12"
+             display="inline"
+             transform="translate(-6051.2148,-8141)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text8826"
+             font-size="12"
+             display="inline"
+             transform="translate(79.4873,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8828"
+             font-size="12"
+             display="inline"
+             transform="translate(85.9922,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8830"
+             font-size="12"
+             display="inline"
+             transform="translate(91.6445,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8832"
+             font-size="12"
+             display="inline"
+             transform="translate(95.6162,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8834"
+             font-size="12"
+             display="inline"
+             transform="translate(101.6162,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8836"
+             font-size="12"
+             display="inline"
+             transform="translate(106.3682,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">u</text>
+          <text
+             id="text8838"
+             font-size="12"
+             display="inline"
+             transform="translate(112.9805,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8840"
+             font-size="12"
+             display="inline"
+             transform="translate(122.7607,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text8842"
+             font-size="12"
+             display="inline"
+             transform="translate(128.3164,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8844"
+             font-size="12"
+             display="inline"
+             transform="translate(68.2188,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text8846"
+             font-size="12"
+             display="inline"
+             transform="translate(75.3711,28.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8848"
+             font-size="12"
+             display="inline"
+             transform="translate(0,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8850"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text8852"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text8854"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8856"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text8858"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8860"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8862"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">b</text>
+          <text
+             id="text8864"
+             font-size="12"
+             display="inline"
+             transform="translate(41.1953,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text8866"
+             font-size="12"
+             display="inline"
+             transform="translate(46.979,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8868"
+             font-size="12"
+             display="inline"
+             transform="translate(51.7305,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8870"
+             font-size="12"
+             display="inline"
+             transform="translate(57.7422,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text8872"
+             font-size="12"
+             display="inline"
+             transform="translate(63.7422,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8874"
+             font-size="12"
+             display="inline"
+             transform="translate(70.5703,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text8876"
+             font-size="12"
+             display="inline"
+             transform="translate(76.3066,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8878"
+             font-size="12"
+             display="inline"
+             transform="translate(80.2783,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">h</text>
+          <text
+             id="text8880"
+             font-size="12"
+             display="inline"
+             transform="translate(86.9385,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text8882"
+             font-size="12"
+             display="inline"
+             transform="translate(94.0908,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">~</text>
+          <text
+             id="text8884"
+             font-size="12"
+             display="inline"
+             transform="translate(101.2432,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text8886"
+             font-size="12"
+             display="inline"
+             transform="translate(105.3594,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">D</text>
+          <text
+             id="text8888"
+             font-size="12"
+             display="inline"
+             transform="translate(113.3994,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8890"
+             font-size="12"
+             display="inline"
+             transform="translate(119.4111,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8892"
+             font-size="12"
+             display="inline"
+             transform="translate(124.1631,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">k</text>
+          <text
+             id="text8894"
+             font-size="12"
+             display="inline"
+             transform="translate(129.791,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8896"
+             font-size="12"
+             display="inline"
+             transform="translate(133.6914,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text8898"
+             font-size="12"
+             display="inline"
+             transform="translate(140.2793,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8900"
+             font-size="12"
+             display="inline"
+             transform="translate(147.1074,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text8902"
+             font-size="12"
+             display="inline"
+             transform="translate(151.2236,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">w</text>
+          <text
+             id="text8904"
+             font-size="12"
+             display="inline"
+             transform="translate(160.0557,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8906"
+             font-size="12"
+             display="inline"
+             transform="translate(162.8633,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8908"
+             font-size="12"
+             display="inline"
+             transform="translate(169.6914,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text8910"
+             font-size="12"
+             display="inline"
+             transform="translate(173.8076,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">A</text>
+          <text
+             id="text8912"
+             font-size="12"
+             display="inline"
+             transform="translate(181.1152,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text8914"
+             font-size="12"
+             display="inline"
+             transform="translate(184.9189,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text8916"
+             font-size="12"
+             display="inline"
+             transform="translate(190.2949,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">h</text>
+          <text
+             id="text8918"
+             font-size="12"
+             display="inline"
+             transform="translate(196.9551,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text8920"
+             font-size="12"
+             display="inline"
+             transform="translate(199.7627,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8922"
+             font-size="12"
+             display="inline"
+             transform="translate(203.6621,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8924"
+             font-size="12"
+             display="inline"
+             transform="translate(209.6738,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text8926"
+             font-size="12"
+             display="inline"
+             transform="translate(215.2061,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8928"
+             font-size="12"
+             display="inline"
+             transform="translate(219.1777,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">u</text>
+          <text
+             id="text8930"
+             font-size="12"
+             display="inline"
+             transform="translate(225.79,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text8932"
+             font-size="12"
+             display="inline"
+             transform="translate(229.5938,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8934"
+             font-size="12"
+             display="inline"
+             transform="translate(235.6055,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text8936"
+             font-size="12"
+             display="inline"
+             transform="translate(245.1094,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text8938"
+             font-size="12"
+             display="inline"
+             transform="translate(251.2656,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text8940"
+             font-size="12"
+             display="inline"
+             transform="translate(257.4219,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">I</text>
+          <text
+             id="text8942"
+             font-size="12"
+             display="inline"
+             transform="translate(260.29,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text8944"
+             font-size="12"
+             display="inline"
+             transform="translate(265.5947,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text8946"
+             font-size="12"
+             display="inline"
+             transform="translate(272.1826,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text8948"
+             font-size="12"
+             display="inline"
+             transform="translate(278.8428,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text8950"
+             font-size="12"
+             display="inline"
+             transform="translate(283.5947,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text8952"
+             font-size="12"
+             display="inline"
+             transform="translate(293.0986,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text8954"
+             font-size="12"
+             display="inline"
+             transform="translate(299.2549,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text8956"
+             font-size="12"
+             display="inline"
+             transform="translate(305.4111,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">-</text>
+          <text
+             id="text8958"
+             font-size="12"
+             display="inline"
+             transform="translate(309.0947,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text8960"
+             font-size="12"
+             display="inline"
+             transform="translate(318.5986,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text8962"
+             font-size="12"
+             display="inline"
+             transform="translate(324.7549,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text8964"
+             font-size="12"
+             display="inline"
+             transform="translate(330.9111,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">U</text>
+          <text
+             id="text8966"
+             font-size="12"
+             display="inline"
+             transform="translate(338.6748,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text8968"
+             font-size="12"
+             display="inline"
+             transform="translate(345.5029,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">d</text>
+          <text
+             id="text8970"
+             font-size="12"
+             display="inline"
+             transform="translate(352.2705,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text8972"
+             font-size="12"
+             display="inline"
+             transform="translate(358.0068,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text8974"
+             font-size="12"
+             display="inline"
+             transform="translate(361.9062,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text8976"
+             font-size="12"
+             display="inline"
+             transform="translate(367.918,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text8978"
+             font-size="12"
+             display="inline"
+             transform="translate(377.4219,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text8980"
+             font-size="12"
+             display="inline"
+             transform="translate(383.5781,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text8982"
+             font-size="12"
+             display="inline"
+             transform="translate(389.7344,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text8984"
+             font-size="12"
+             display="inline"
+             transform="translate(395.5186,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text8986"
+             font-size="12"
+             display="inline"
+             transform="translate(398.3506,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text8988"
+             font-size="12"
+             display="inline"
+             transform="translate(401.1826,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text8990"
+             font-size="12"
+             display="inline"
+             transform="translate(410.6865,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text8992"
+             font-size="12"
+             display="inline"
+             transform="translate(416.8428,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text8994"
+             font-size="12"
+             display="inline"
+             transform="translate(422.999,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text8996"
+             font-size="12"
+             display="inline"
+             transform="translate(428.375,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">u</text>
+          <text
+             id="text8998"
+             font-size="12"
+             display="inline"
+             transform="translate(434.9873,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9000"
+             font-size="12"
+             display="inline"
+             transform="translate(439.7393,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9002"
+             font-size="12"
+             display="inline"
+             transform="translate(443.6387,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9004"
+             font-size="12"
+             display="inline"
+             transform="translate(450.2266,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">m</text>
+          <text
+             id="text9006"
+             font-size="12"
+             display="inline"
+             transform="translate(460.2344,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9008"
+             font-size="12"
+             display="inline"
+             transform="translate(466.2461,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9010"
+             font-size="12"
+             display="inline"
+             transform="translate(470.1104,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">-</text>
+          <text
+             id="text9012"
+             font-size="12"
+             display="inline"
+             transform="translate(473.7939,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text9014"
+             font-size="12"
+             display="inline"
+             transform="translate(477.2979,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9016"
+             font-size="12"
+             display="inline"
+             transform="translate(483.082,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9018"
+             font-size="12"
+             display="inline"
+             transform="translate(488.458,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text9020"
+             font-size="12"
+             display="inline"
+             transform="translate(491.2656,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9022"
+             font-size="12"
+             display="inline"
+             transform="translate(497.9258,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">g</text>
+          <text
+             id="text9024"
+             font-size="12"
+             display="inline"
+             transform="translate(504.6338,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text9026"
+             font-size="12"
+             display="inline"
+             transform="translate(514.1377,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text9028"
+             font-size="12"
+             display="inline"
+             transform="translate(520.2939,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text9030"
+             font-size="12"
+             display="inline"
+             transform="translate(526.4502,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text9032"
+             font-size="12"
+             display="inline"
+             transform="translate(532.7266,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text9034"
+             font-size="12"
+             display="inline"
+             transform="translate(535.5586,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text9036"
+             font-size="12"
+             display="inline"
+             transform="translate(541.5703,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9038"
+             font-size="12"
+             display="inline"
+             transform="translate(546.3223,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9040"
+             font-size="12"
+             display="inline"
+             transform="translate(555.8262,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text9042"
+             font-size="12"
+             display="inline"
+             transform="translate(561.9824,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text9044"
+             font-size="12"
+             display="inline"
+             transform="translate(568.1387,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text9046"
+             font-size="12"
+             display="inline"
+             transform="translate(-8141,-8141)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9048"
+             font-size="12"
+             display="inline"
+             transform="translate(572.2549,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">A</text>
+          <text
+             id="text9050"
+             font-size="12"
+             display="inline"
+             transform="translate(578.9629,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">W</text>
+          <text
+             id="text9052"
+             font-size="12"
+             display="inline"
+             transform="translate(589.1152,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">S</text>
+          <text
+             id="text9054"
+             font-size="12"
+             display="inline"
+             transform="translate(595.0908,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">-</text>
+          <text
+             id="text9056"
+             font-size="12"
+             display="inline"
+             transform="translate(598.7744,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">S</text>
+          <text
+             id="text9058"
+             font-size="12"
+             display="inline"
+             transform="translate(604.6904,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text9060"
+             font-size="12"
+             display="inline"
+             transform="translate(607.498,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">m</text>
+          <text
+             id="text9062"
+             font-size="12"
+             display="inline"
+             transform="translate(617.5059,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9064"
+             font-size="12"
+             display="inline"
+             transform="translate(624.334,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text9066"
+             font-size="12"
+             display="inline"
+             transform="translate(627.166,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9068"
+             font-size="12"
+             display="inline"
+             transform="translate(633.5137,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">-</text>
+          <text
+             id="text9070"
+             font-size="12"
+             display="inline"
+             transform="translate(637.1973,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">I</text>
+          <text
+             id="text9072"
+             font-size="12"
+             display="inline"
+             transform="translate(640.0654,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9074"
+             font-size="12"
+             display="inline"
+             transform="translate(645.3701,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9076"
+             font-size="12"
+             display="inline"
+             transform="translate(651.958,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9078"
+             font-size="12"
+             display="inline"
+             transform="translate(658.6182,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9080"
+             font-size="12"
+             display="inline"
+             transform="translate(663.3701,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">%</text>
+          <text
+             id="text9082"
+             font-size="12"
+             display="inline"
+             transform="translate(672.874,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text9084"
+             font-size="12"
+             display="inline"
+             transform="translate(679.0303,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text9086"
+             font-size="12"
+             display="inline"
+             transform="translate(685.1865,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">2</text>
+          <text
+             id="text9088"
+             font-size="12"
+             display="inline"
+             transform="translate(691.3428,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9090"
+             font-size="12"
+             display="inline"
+             transform="translate(695.459,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">E</text>
+          <text
+             id="text9092"
+             font-size="12"
+             display="inline"
+             transform="translate(701.3633,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">P</text>
+          <text
+             id="text9094"
+             font-size="12"
+             display="inline"
+             transform="translate(707.7471,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">S</text>
+          <text
+             id="text9096"
+             font-size="12"
+             display="inline"
+             transform="translate(713.6631,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9098"
+             font-size="12"
+             display="inline"
+             transform="translate(720.8154,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9100"
+             font-size="12"
+             display="inline"
+             transform="translate(724.9316,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9102"
+             font-size="12"
+             display="inline"
+             transform="translate(731.4355,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9104"
+             font-size="12"
+             display="inline"
+             transform="translate(737.0879,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9106"
+             font-size="12"
+             display="inline"
+             transform="translate(741.0596,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9108"
+             font-size="12"
+             display="inline"
+             transform="translate(747.0596,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">b</text>
+          <text
+             id="text9110"
+             font-size="12"
+             display="inline"
+             transform="translate(753.8877,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9112"
+             font-size="12"
+             display="inline"
+             transform="translate(759.6719,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9114"
+             font-size="12"
+             display="inline"
+             transform="translate(764.4238,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9116"
+             font-size="12"
+             display="inline"
+             transform="translate(770.4355,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9118"
+             font-size="12"
+             display="inline"
+             transform="translate(776.4355,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9120"
+             font-size="12"
+             display="inline"
+             transform="translate(783.2637,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9122"
+             font-size="12"
+             display="inline"
+             transform="translate(789,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9124"
+             font-size="12"
+             display="inline"
+             transform="translate(792.9717,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">h</text>
+          <text
+             id="text9126"
+             font-size="12"
+             display="inline"
+             transform="translate(799.6318,43.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9128"
+             font-size="12"
+             display="inline"
+             transform="translate(0,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9130"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9132"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9134"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9136"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9138"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9140"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9142"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9144"
+             font-size="12"
+             display="inline"
+             transform="translate(39.1196,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9146"
+             font-size="12"
+             display="inline"
+             transform="translate(44.4956,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9148"
+             font-size="12"
+             display="inline"
+             transform="translate(50.2798,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text9150"
+             font-size="12"
+             display="inline"
+             transform="translate(53.1113,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text9152"
+             font-size="12"
+             display="inline"
+             transform="translate(55.9189,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9154"
+             font-size="12"
+             display="inline"
+             transform="translate(62.5791,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">g</text>
+          <text
+             id="text9156"
+             font-size="12"
+             display="inline"
+             transform="translate(69.2871,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9158"
+             font-size="12"
+             display="inline"
+             transform="translate(76.4395,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">1</text>
+          <text
+             id="text9160"
+             font-size="12"
+             display="inline"
+             transform="translate(82.5957,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text9162"
+             font-size="12"
+             display="inline"
+             transform="translate(88.752,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">0</text>
+          <text
+             id="text9164"
+             font-size="12"
+             display="inline"
+             transform="translate(94.9082,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9166"
+             font-size="12"
+             display="inline"
+             transform="translate(102.0605,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9168"
+             font-size="12"
+             display="inline"
+             transform="translate(106.1768,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9170"
+             font-size="12"
+             display="inline"
+             transform="translate(112.6816,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9172"
+             font-size="12"
+             display="inline"
+             transform="translate(118.334,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9174"
+             font-size="12"
+             display="inline"
+             transform="translate(122.3057,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9176"
+             font-size="12"
+             display="inline"
+             transform="translate(128.3057,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9178"
+             font-size="12"
+             display="inline"
+             transform="translate(133.0576,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9180"
+             font-size="12"
+             display="inline"
+             transform="translate(138.4336,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9182"
+             font-size="12"
+             display="inline"
+             transform="translate(144.2178,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">l</text>
+          <text
+             id="text9184"
+             font-size="12"
+             display="inline"
+             transform="translate(147.0498,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">i</text>
+          <text
+             id="text9186"
+             font-size="12"
+             display="inline"
+             transform="translate(149.8574,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9188"
+             font-size="12"
+             display="inline"
+             transform="translate(156.5176,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">g</text>
+          <text
+             id="text9190"
+             font-size="12"
+             display="inline"
+             transform="translate(163.2256,57.5996)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9192"
+             font-size="12"
+             display="inline"
+             transform="translate(0,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9194"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9196"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9198"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9200"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9202"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9204"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9206"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9208"
+             font-size="12"
+             display="inline"
+             transform="translate(38.3394,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9210"
+             font-size="12"
+             display="inline"
+             transform="translate(42.2031,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9212"
+             font-size="12"
+             display="inline"
+             transform="translate(47.9873,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9214"
+             font-size="12"
+             display="inline"
+             transform="translate(54.6475,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9216"
+             font-size="12"
+             display="inline"
+             transform="translate(59.3994,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9218"
+             font-size="12"
+             display="inline"
+             transform="translate(66.2275,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9220"
+             font-size="12"
+             display="inline"
+             transform="translate(72.0117,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9222"
+             font-size="12"
+             display="inline"
+             transform="translate(75.8154,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9224"
+             font-size="12"
+             display="inline"
+             transform="translate(81.8271,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9226"
+             font-size="12"
+             display="inline"
+             transform="translate(88.4873,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9228"
+             font-size="12"
+             display="inline"
+             transform="translate(94.0791,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9230"
+             font-size="12"
+             display="inline"
+             transform="translate(99.7314,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9232"
+             font-size="12"
+             display="inline"
+             transform="translate(106.8838,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9234"
+             font-size="12"
+             display="inline"
+             transform="translate(110.8555,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9236"
+             font-size="12"
+             display="inline"
+             transform="translate(114.7793,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">u</text>
+          <text
+             id="text9238"
+             font-size="12"
+             display="inline"
+             transform="translate(121.3916,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9240"
+             font-size="12"
+             display="inline"
+             transform="translate(127.4033,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9242"
+             font-size="12"
+             display="inline"
+             transform="translate(134.5557,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9244"
+             font-size="12"
+             display="inline"
+             transform="translate(138.6719,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9246"
+             font-size="12"
+             display="inline"
+             transform="translate(145.1768,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9248"
+             font-size="12"
+             display="inline"
+             transform="translate(150.8291,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9250"
+             font-size="12"
+             display="inline"
+             transform="translate(154.8008,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9252"
+             font-size="12"
+             display="inline"
+             transform="translate(160.8008,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9254"
+             font-size="12"
+             display="inline"
+             transform="translate(164.7725,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9256"
+             font-size="12"
+             display="inline"
+             transform="translate(168.6367,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9258"
+             font-size="12"
+             display="inline"
+             transform="translate(174.4199,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9260"
+             font-size="12"
+             display="inline"
+             transform="translate(181.0801,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9262"
+             font-size="12"
+             display="inline"
+             transform="translate(185.832,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9264"
+             font-size="12"
+             display="inline"
+             transform="translate(192.6602,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9266"
+             font-size="12"
+             display="inline"
+             transform="translate(198.4453,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9268"
+             font-size="12"
+             display="inline"
+             transform="translate(202.249,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9270"
+             font-size="12"
+             display="inline"
+             transform="translate(208.2607,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9272"
+             font-size="12"
+             display="inline"
+             transform="translate(214.9209,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9274"
+             font-size="12"
+             display="inline"
+             transform="translate(220.5127,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9276"
+             font-size="12"
+             display="inline"
+             transform="translate(226.165,72)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9278"
+             font-size="12"
+             display="inline"
+             transform="translate(0,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9280"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9282"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9284"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9286"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9288"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9290"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9292"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text9294"
+             font-size="12"
+             display="inline"
+             transform="translate(37.7158,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9296"
+             font-size="12"
+             display="inline"
+             transform="translate(44.3037,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9298"
+             font-size="12"
+             display="inline"
+             transform="translate(48.2754,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">m</text>
+          <text
+             id="text9300"
+             font-size="12"
+             display="inline"
+             transform="translate(58.2832,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9302"
+             font-size="12"
+             display="inline"
+             transform="translate(64.0195,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9304"
+             font-size="12"
+             display="inline"
+             transform="translate(67.9912,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9306"
+             font-size="12"
+             display="inline"
+             transform="translate(75.1436,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">E</text>
+          <text
+             id="text9308"
+             font-size="12"
+             display="inline"
+             transform="translate(81.0479,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">P</text>
+          <text
+             id="text9310"
+             font-size="12"
+             display="inline"
+             transform="translate(87.4316,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">S</text>
+          <text
+             id="text9312"
+             font-size="12"
+             display="inline"
+             transform="translate(93.3477,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9314"
+             font-size="12"
+             display="inline"
+             transform="translate(100.5,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9316"
+             font-size="12"
+             display="inline"
+             transform="translate(104.6162,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9318"
+             font-size="12"
+             display="inline"
+             transform="translate(111.1201,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9320"
+             font-size="12"
+             display="inline"
+             transform="translate(116.7725,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9322"
+             font-size="12"
+             display="inline"
+             transform="translate(120.7441,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9324"
+             font-size="12"
+             display="inline"
+             transform="translate(126.7441,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text9326"
+             font-size="12"
+             display="inline"
+             transform="translate(130.0928,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9328"
+             font-size="12"
+             display="inline"
+             transform="translate(136.6807,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9330"
+             font-size="12"
+             display="inline"
+             transform="translate(140.6523,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">m</text>
+          <text
+             id="text9332"
+             font-size="12"
+             display="inline"
+             transform="translate(150.6602,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9334"
+             font-size="12"
+             display="inline"
+             transform="translate(156.3965,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9336"
+             font-size="12"
+             display="inline"
+             transform="translate(160.3682,86.4004)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9338"
+             font-size="12"
+             display="inline"
+             transform="translate(0,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9340"
+             font-size="12"
+             display="inline"
+             transform="translate(2.5439,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline" />
+          <text
+             id="text9342"
+             font-size="12"
+             display="inline"
+             transform="translate(5.0879,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9344"
+             font-size="12"
+             display="inline"
+             transform="translate(12.2397,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9346"
+             font-size="12"
+             display="inline"
+             transform="translate(18.7437,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9348"
+             font-size="12"
+             display="inline"
+             transform="translate(24.3955,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9350"
+             font-size="12"
+             display="inline"
+             transform="translate(28.3677,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9352"
+             font-size="12"
+             display="inline"
+             transform="translate(34.3677,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9354"
+             font-size="12"
+             display="inline"
+             transform="translate(40.3433,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text9356"
+             font-size="12"
+             display="inline"
+             transform="translate(45.8994,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9358"
+             font-size="12"
+             display="inline"
+             transform="translate(52.7275,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9360"
+             font-size="12"
+             display="inline"
+             transform="translate(59.3154,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9362"
+             font-size="12"
+             display="inline"
+             transform="translate(63.5264,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9364"
+             font-size="12"
+             display="inline"
+             transform="translate(67.498,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9366"
+             font-size="12"
+             display="inline"
+             transform="translate(73.498,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9368"
+             font-size="12"
+             display="inline"
+             transform="translate(78.8027,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9370"
+             font-size="12"
+             display="inline"
+             transform="translate(85.3906,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">d</text>
+          <text
+             id="text9372"
+             font-size="12"
+             display="inline"
+             transform="translate(92.1582,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9374"
+             font-size="12"
+             display="inline"
+             transform="translate(98.1699,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9376"
+             font-size="12"
+             display="inline"
+             transform="translate(105.3223,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9378"
+             font-size="12"
+             display="inline"
+             transform="translate(111.1064,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9380"
+             font-size="12"
+             display="inline"
+             transform="translate(115.3184,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9382"
+             font-size="12"
+             display="inline"
+             transform="translate(119.2891,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">b</text>
+          <text
+             id="text9384"
+             font-size="12"
+             display="inline"
+             transform="translate(126.1172,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9386"
+             font-size="12"
+             display="inline"
+             transform="translate(132.7051,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">a</text>
+          <text
+             id="text9388"
+             font-size="12"
+             display="inline"
+             transform="translate(138.4902,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9390"
+             font-size="12"
+             display="inline"
+             transform="translate(142.2939,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">d</text>
+          <text
+             id="text9392"
+             font-size="12"
+             display="inline"
+             transform="translate(149.0615,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9394"
+             font-size="12"
+             display="inline"
+             transform="translate(153.8135,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9396"
+             font-size="12"
+             display="inline"
+             transform="translate(160.9658,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9398"
+             font-size="12"
+             display="inline"
+             transform="translate(165.082,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9400"
+             font-size="12"
+             display="inline"
+             transform="translate(171.5859,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9402"
+             font-size="12"
+             display="inline"
+             transform="translate(177.2383,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9404"
+             font-size="12"
+             display="inline"
+             transform="translate(181.21,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9406"
+             font-size="12"
+             display="inline"
+             transform="translate(187.21,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9408"
+             font-size="12"
+             display="inline"
+             transform="translate(193.1855,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">x</text>
+          <text
+             id="text9410"
+             font-size="12"
+             display="inline"
+             transform="translate(198.7412,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9412"
+             font-size="12"
+             display="inline"
+             transform="translate(205.5693,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9414"
+             font-size="12"
+             display="inline"
+             transform="translate(212.1572,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9416"
+             font-size="12"
+             display="inline"
+             transform="translate(216.3691,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9418"
+             font-size="12"
+             display="inline"
+             transform="translate(220.3408,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9420"
+             font-size="12"
+             display="inline"
+             transform="translate(226.3408,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">c</text>
+          <text
+             id="text9422"
+             font-size="12"
+             display="inline"
+             transform="translate(231.6445,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">o</text>
+          <text
+             id="text9424"
+             font-size="12"
+             display="inline"
+             transform="translate(238.2324,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">d</text>
+          <text
+             id="text9426"
+             font-size="12"
+             display="inline"
+             transform="translate(245,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9428"
+             font-size="12"
+             display="inline"
+             transform="translate(251.0117,100.7998)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+          <text
+             id="text9430"
+             font-size="12"
+             display="inline"
+             transform="translate(0,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&lt;</text>
+          <text
+             id="text9432"
+             font-size="12"
+             display="inline"
+             transform="translate(7.1519,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">/</text>
+          <text
+             id="text9434"
+             font-size="12"
+             display="inline"
+             transform="translate(11.2676,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">n</text>
+          <text
+             id="text9436"
+             font-size="12"
+             display="inline"
+             transform="translate(17.772,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">y</text>
+          <text
+             id="text9438"
+             font-size="12"
+             display="inline"
+             transform="translate(23.4238,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">t</text>
+          <text
+             id="text9440"
+             font-size="12"
+             display="inline"
+             transform="translate(27.396,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">_</text>
+          <text
+             id="text9442"
+             font-size="12"
+             display="inline"
+             transform="translate(33.396,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">p</text>
+          <text
+             id="text9444"
+             font-size="12"
+             display="inline"
+             transform="translate(40.2236,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">r</text>
+          <text
+             id="text9446"
+             font-size="12"
+             display="inline"
+             transform="translate(44.0273,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">e</text>
+          <text
+             id="text9448"
+             font-size="12"
+             display="inline"
+             transform="translate(50.0391,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">f</text>
+          <text
+             id="text9450"
+             font-size="12"
+             display="inline"
+             transform="translate(53.4346,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">s</text>
+          <text
+             id="text9452"
+             font-size="12"
+             display="inline"
+             transform="translate(58.1865,115.2002)"
+             style="font-size:12px;font-family:MyriadPro-Regular;display:inline">&gt;</text>
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="elastic-load-balancing">
+      <g
+         id="elastic-load-balancing_transform"
+         transform="matrix(0.65982405,0,0,0.65982405,125.60377,50.063578)">
+        <polygon
+           id="polygon10878"
+           points="72.7,28.2 72.7,71.6 37.2,84.6 37.2,15.2 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10880"
+           points="27.3,26 27.3,74 19.3,75.8 19.3,24.2 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10882"
+           points="37.2,23 37.2,77 27.3,79.8 27.3,20.2 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10884"
+           points="32,82.2 32,17.8 37.2,15.2 37.2,84.8 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10886"
+           points="23.1,77.7 23.1,22.3 27.3,20.2 27.3,79.8 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10888"
+           points="19.3,75.8 19.3,24.2 15.9,25.9 15.9,74.1 "
+           class="st1"
+           style="fill:#9d5025" />
+        <g
+           id="g10890">
+          <polygon
+             id="polygon10892"
+             points="43.2,42.4 50,41.7 50,8.8 43.2,12.2 "
+             class="st1"
+             style="fill:#9d5025" />
+          <polygon
+             id="polygon10894"
+             points="50,58.1 43.2,57.4 43.2,87.8 50,91.2 "
+             class="st1"
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g10896">
+          <polygon
+             id="polygon10898"
+             points="50,41.7 68.2,43.5 68.2,17.9 50,8.8 "
+             class="st0"
+             style="fill:#f58435" />
+          <polygon
+             id="polygon10900"
+             points="68.2,56.3 50,58.1 50,91.2 68.2,82.1 "
+             class="st0"
+             style="fill:#f58435" />
+        </g>
+        <g
+           id="g10902">
+          <polygon
+             id="polygon10904"
+             points="74.4,44.1 84.1,45.1 84.1,25.9 74.4,21 "
+             class="st0"
+             style="fill:#f58435" />
+          <polygon
+             id="polygon10906"
+             points="84.1,54.7 74.4,55.7 74.4,79 84.1,74.1 "
+             class="st0"
+             style="fill:#f58435" />
+        </g>
+        <polygon
+           id="polygon10908"
+           points="50,41.7 68.2,43.5 61.5,43.9 43.2,42.4 "
+           class="st2"
+           style="fill:#6b3b19" />
+        <polygon
+           id="polygon10910"
+           points="49.7,58.1 68.2,56.3 61.9,55.9 43.2,57.4 "
+           class="st3"
+           style="fill:#fbbf92" />
+        <polygon
+           id="polygon10912"
+           points="70.1,44.4 70.1,22.1 74.4,21 74.4,44.1 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10914"
+           points="70.1,55.4 70.1,77.9 74.4,79 74.4,55.7 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10916"
+           points="74.4,55.7 84.1,54.7 80.2,54.5 70.1,55.4 "
+           class="st3"
+           style="fill:#fbbf92" />
+        <polygon
+           id="polygon10918"
+           points="74.4,44.1 84.1,45.1 80.2,45.3 70.1,44.4 "
+           class="st2"
+           style="fill:#6b3b19" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-instances">
+      <title
+         id="title10864">ec2-instances</title>
+      <g
+         id="ec2-instances_transform"
+         transform="matrix(0.89073634,0,0,0.89073634,192.72359,42.166379)">
+        <g
+           id="g10294">
+          <polygon
+             id="polygon10296"
+             points="33.396,29.508 53.713,30.217 53.713,32.91 35.891,32.91 "
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g10298">
+          <path
+             id="path10300"
+             d="m 35.891,30.217 0,2.693 c -0.98,0 -1.842,0.551 -2.285,1.355 l 0,-2.695 c 0.443,-0.802 1.304,-1.353 2.285,-1.353"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10302"
+             d="m 33.605,31.57 0,2.695 c -0.08,0.143 -0.146,0.295 -0.197,0.453 l 0,-2.695 c 0.051,-0.158 0.117,-0.308 0.197,-0.453"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10304"
+             d="m 33.408,32.023 0,2.695 c -0.043,0.133 -0.074,0.271 -0.096,0.412 l 0,-2.693 c 0.022,-0.14 0.053,-0.279 0.096,-0.414"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10306"
+             d="m 33.312,32.438 0,2.693 c -0.018,0.119 -0.025,0.24 -0.025,0.363 l 0,-2.693 c 0,-0.123 0.008,-0.244 0.025,-0.363"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10308"
+           d="m 35.891,30.217 0,2.693 c -1.43,0 -2.604,1.168 -2.604,2.584 l 0,-2.693 c 0,-1.416 1.174,-2.584 2.604,-2.584 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10310">
+          <polygon
+             id="polygon10312"
+             points="44.896,42.297 64.418,42.674 64.418,45.367 46.42,45.367 "
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g10314">
+          <path
+             id="path10316"
+             d="m 46.607,42.674 0,2.693 c -0.984,0 -1.84,0.545 -2.281,1.346 l 0,-2.693 c 0.442,-0.803 1.297,-1.346 2.281,-1.346"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10318"
+             d="m 44.326,44.02 0,2.693 c -0.08,0.145 -0.146,0.299 -0.197,0.457 l 0,-2.693 c 0.051,-0.161 0.117,-0.313 0.197,-0.457"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10320"
+             d="m 44.129,44.477 0,2.693 c -0.043,0.137 -0.078,0.277 -0.1,0.422 l 0,-2.695 c 0.022,-0.143 0.057,-0.286 0.1,-0.42"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10322"
+             d="m 44.029,44.896 0,2.695 c -0.016,0.121 -0.025,0.246 -0.025,0.373 l 0,-2.693 c 0,-0.126 0.01,-0.251 0.025,-0.375"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10324"
+           d="m 46.607,42.674 0,2.693 c -1.441,0 -2.604,1.166 -2.604,2.598 l 0,-2.693 c 10e-4,-1.432 1.163,-2.598 2.604,-2.598 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10326">
+          <polygon
+             id="polygon10328"
+             points="26.41,50.25 33.287,50.824 33.287,53.52 27.342,53.52 "
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g10330">
+          <path
+             id="path10332"
+             d="m 27.342,50.824 0,2.695 c -1.428,0 -2.602,-1.152 -2.602,-2.582 l 0,-2.695 c 0,1.432 1.174,2.582 2.602,2.582"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10334"
+           d="m 27.342,50.824 0,2.695 c -1.428,0 -2.602,-1.152 -2.602,-2.582 l 0,-2.695 c 0,1.432 1.174,2.582 2.602,2.582 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10336">
+          <rect
+             id="rect10338"
+             height="2.6949999"
+             width="6.1329999"
+             y="63.280998"
+             x="37.870998"
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g10340">
+          <path
+             id="path10342"
+             d="m 38.059,63.281 0,2.695 c -1.441,0 -2.604,-1.152 -2.604,-2.582 l 0,-2.695 c 0,1.43 1.162,2.582 2.604,2.582"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10344"
+           d="m 38.059,63.281 0,2.695 c -1.441,0 -2.604,-1.152 -2.604,-2.582 l 0,-2.695 c 0,1.43 1.162,2.582 2.604,2.582 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10346">
+          <path
+             id="path10348"
+             d="m 48.9,75.809 0,2.695 c -1.441,0 -2.602,-1.168 -2.602,-2.584 l 0,-2.695 c 10e-4,1.418 1.161,2.584 2.602,2.584"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10350"
+           d="m 48.9,75.809 0,2.695 c -1.441,0 -2.602,-1.168 -2.602,-2.584 l 0,-2.695 c 10e-4,1.418 1.161,2.584 2.602,2.584 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10352">
+          <path
+             id="path10354"
+             d="m 75.26,73.225 0,2.695 c 0,0.125 -0.008,0.246 -0.027,0.365 l 0,-2.693 c 0.019,-0.119 0.027,-0.242 0.027,-0.367"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10356"
+             d="m 75.232,73.592 0,2.693 c -0.02,0.143 -0.053,0.283 -0.096,0.416 l 0,-2.693 c 0.044,-0.135 0.077,-0.274 0.096,-0.416"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10358"
+             d="m 75.137,74.008 0,2.693 c -0.051,0.16 -0.117,0.312 -0.197,0.457 l 0,-2.693 c 0.08,-0.147 0.146,-0.297 0.197,-0.457"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path10360"
+             d="m 74.939,74.465 0,2.693 c -0.441,0.799 -1.293,1.346 -2.268,1.346 l 0,-2.695 c 0.975,0 1.827,-0.545 2.268,-1.344"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path10362"
+           d="m 75.26,73.225 0,2.695 c 0,1.416 -1.162,2.584 -2.588,2.584 l 0,-2.695 c 1.426,0 2.588,-1.166 2.588,-2.584 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g10364">
+          <path
+             id="path10366"
+             d="m 51.111,21.496 c 1.441,0 2.602,1.152 2.602,2.582 l 0,6.139 -17.822,0 c -1.43,0 -2.604,1.168 -2.604,2.584 l 0,18.023 -5.945,0 c -1.428,0 -2.602,-1.15 -2.602,-2.582 l 0,-24.164 c 0,-1.43 1.174,-2.582 2.602,-2.582 0,0 23.769,0 23.769,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#f58536" />
+        </g>
+        <g
+           id="g10368">
+          <path
+             id="path10370"
+             d="m 61.828,33.951 c 1.428,0 2.59,1.168 2.59,2.584 l 0,6.139 -17.811,0 c -1.441,0 -2.604,1.166 -2.604,2.598 l 0,18.01 -5.945,0 c -1.441,0 -2.604,-1.152 -2.604,-2.582 l 0,-24.165 c 0,-1.416 1.162,-2.584 2.604,-2.584 l 23.77,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#f58536" />
+        </g>
+        <g
+           id="g10372">
+          <path
+             id="path10374"
+             d="m 72.672,46.479 c 1.426,0 2.588,1.152 2.588,2.568 l 0,24.178 c 0,1.418 -1.162,2.584 -2.588,2.584 l -23.772,0 c -1.441,0 -2.602,-1.166 -2.602,-2.584 l 0,-24.178 c 0,-1.416 1.16,-2.568 2.602,-2.568 l 23.772,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#f58536" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-instance">
+      <title
+         id="title10895">ec2-instance</title>
+      <g
+         id="g10264_transform"
+         transform="matrix(0.85153086,0,0,0.85153086,298.24451,42.616639)">
+        <g
+           id="Layer_3-9" />
+        <g
+           id="Layer_1-39">
+          <g
+             id="g10229">
+            <g
+               id="g10231">
+              <path
+                 id="path10233"
+                 d="m 67.358,21.674 c 5.015,0 9.064,4.037 9.064,9.012 l 0,35.484 c 0,4.977 -4.05,9.012 -9.064,9.012 l -34.701,0 c -5.014,0 -9.08,-4.035 -9.08,-9.012 l 0,-35.484 c 0,-4.975 4.066,-9.012 9.08,-9.012 l 34.701,0 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#f58536" />
+            </g>
+            <g
+               id="g10235">
+              <path
+                 id="path10237"
+                 d="m 76.423,66.17 0,3.145 c 0,0.438 -0.033,0.869 -0.092,1.291 l 0,-3.145 c 0.059,-0.422 0.092,-0.854 0.092,-1.291"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10239"
+                 d="m 76.331,67.461 0,3.145 c -0.074,0.5 -0.188,0.986 -0.337,1.457 l 0,-3.145 c 0.15,-0.471 0.263,-0.957 0.337,-1.457"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10241"
+                 d="m 75.994,68.918 0,3.145 c -0.179,0.555 -0.408,1.084 -0.687,1.586 l 0,-3.146 c 0.279,-0.501 0.508,-1.03 0.687,-1.585"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10243"
+                 d="m 75.308,70.502 0,3.146 c -1.538,2.787 -4.518,4.678 -7.949,4.678 l 0,-3.145 c 3.431,0.001 6.411,-1.89 7.949,-4.679"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10245"
+               d="m 76.423,66.17 0,3.145 c 0,4.977 -4.05,9.012 -9.064,9.012 l 0,-3.145 c 5.014,0 9.064,-4.036 9.064,-9.012 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g10247">
+              <rect
+                 id="rect10249"
+                 height="3.145"
+                 width="35.139"
+                 y="75.181999"
+                 x="32.282001"
+                 style="fill:#9d5025" />
+            </g>
+            <g
+               id="g10251">
+              <path
+                 id="path10253"
+                 d="m 33.032,75.182 0,3.145 c -5.014,0 -9.455,-4.035 -9.455,-9.012 l 0,-3.145 c 0,4.977 4.066,9.012 9.08,9.012"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10255"
+               d="m 32.657,75.182 0,3.145 c -5.014,0 -9.08,-4.035 -9.08,-9.012 l 0,-3.145 c 0,4.976 4.067,9.012 9.08,9.012 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+          </g>
+        </g>
+        <g
+           display="none"
+           id="nyt_x5F_exporter_x5F_info-96"
+           style="display:none" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-optimized-instance">
+      <title
+         id="title10926">ec2-optimized-instance</title>
+      <g
+         id="ec2-optimized-instance_transform"
+         transform="matrix(0.84548324,0,0,0.84548324,386.01423,40.957569)">
+        <g
+           id="g10434">
+          <g
+             id="g10436">
+            <path
+               id="path10438"
+               d="m 76.593,71.823 0,2.975 c 0,0.23 -0.016,0.457 -0.049,0.68 l 0,-2.975 c 0.033,-0.221 0.049,-0.447 0.049,-0.68"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10440"
+               d="m 76.544,72.503 0,2.975 c -0.039,0.262 -0.098,0.518 -0.174,0.764 l 0,-2.973 c 0.076,-0.245 0.135,-0.502 0.174,-0.766"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10442"
+               d="m 76.37,73.269 0,2.973 c -0.096,0.291 -0.217,0.568 -0.361,0.832 l 0,-2.973 c 0.144,-0.262 0.265,-0.541 0.361,-0.832"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10444"
+               d="m 76.009,74.101 0,2.973 C 75.2,78.54 73.63,79.53 71.823,79.53 l 0,-2.973 c 1.807,0.001 3.377,-0.988 4.186,-2.456"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+          </g>
+          <path
+             id="path10446"
+             d="m 76.593,71.823 0,2.975 c 0,2.619 -2.131,4.732 -4.77,4.732 l -1.574,-3.875 c 2.641,0 6.344,-1.211 6.344,-3.832 z"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <g
+             id="g10448">
+            <path
+               id="path10450"
+               d="m 28.138,76.558 0,2.973 c -2.639,0 -4.769,-2.113 -4.769,-4.732 l 0,-2.975 c -0.001,2.62 2.13,4.734 4.769,4.734"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+          </g>
+          <path
+             id="path10452"
+             d="m 28.138,76.558 0,2.973 c -2.639,0 -4.769,-2.113 -4.769,-4.732 l 0,-2.975 c -0.001,2.62 2.13,4.734 4.769,4.734 z"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <g
+             id="g10454">
+            <polygon
+               id="polygon10456"
+               points="71.823,76.558 71.823,79.53 28.138,79.53 26.749,75.821 "
+               style="fill:#9d5025" />
+          </g>
+          <g
+             id="g10458">
+            <path
+               id="path10460"
+               d="m 71.823,22.671 c 2.639,0 4.77,2.113 4.77,4.734 l 0,44.418 c 0,2.621 -2.131,4.734 -4.77,4.734 l -43.685,0 c -2.639,0 -4.769,-2.113 -4.769,-4.734 l 0,-44.418 c 0,-2.621 2.131,-4.734 4.769,-4.734 l 43.685,0 z"
+               inkscape:connector-curvature="0"
+               style="fill:#f58536" />
+          </g>
+        </g>
+        <g
+           id="g10462">
+          <path
+             id="path10464"
+             d="m 60.337,63.458 c 0,-1.872 -0.378,-2.683 -1.548,-2.683 -1.314,0 -1.621,1.314 -1.621,4.951 0,3.89 0.54,4.592 1.657,4.592 0.936,0 1.62,-0.486 1.62,-3.259 l 2.593,0 c 0,2.772 -0.685,5.167 -4.087,5.167 -3.89,0 -4.376,-2.772 -4.376,-6.68 0,-3.908 0.486,-6.68 4.376,-6.68 3.709,0 3.979,2.719 3.979,4.591 l -2.593,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             id="path10466"
+             d="m 66.456,68.247 c 0.036,1.477 0.288,2.287 1.423,2.287 1.26,0 1.422,-0.937 1.422,-2.053 0,-1.134 -0.252,-2.179 -1.674,-2.179 l -0.864,0 0,-1.692 0.846,0 c 1.08,0 1.477,-0.973 1.477,-2.017 0,-1.188 -0.396,-1.675 -1.242,-1.675 -1.116,0 -1.314,0.864 -1.314,2.071 l -2.377,0 c 0,-2.503 1.332,-3.764 3.745,-3.764 2.305,0 3.673,1.026 3.673,3.277 0,1.53 -0.738,2.539 -1.944,2.809 l 0,0.036 c 1.639,0.252 2.269,1.404 2.269,3.007 0,1.711 -0.702,3.871 -4.231,3.871 -2.466,0 -3.69,-1.494 -3.69,-3.925 l 0,-0.055 2.481,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-db-on-instance">
+      <title
+         id="title10971">ec2-db-on-instance</title>
+      <g
+         id="ec2-db-on-instance_transform"
+         transform="matrix(0.85143419,0,0,0.85143419,477.04334,35.574739)">
+        <g
+           id="Layer_3-8" />
+        <g
+           id="Layer_1-3">
+          <g
+             id="g10075">
+            <g
+               id="g10077">
+              <line
+                 id="line10079"
+                 y2="28.139"
+                 x2="76.424004"
+                 y1="25.533001"
+                 x1="76.424004"
+                 style="fill:#9d5125" />
+            </g>
+            <g
+               id="g10081">
+              <path
+                 id="path10083"
+                 d="m 52.252,46.496 0,2.605 c -0.051,0.09 -0.094,0.186 -0.125,0.279 l 0,-2.605 c 0.031,-0.093 0.074,-0.187 0.125,-0.279"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10085"
+                 d="m 52.127,46.775 0,2.605 c -0.014,0.047 -0.028,0.094 -0.04,0.141 l 0,-2.605 c 0.012,-0.049 0.026,-0.094 0.04,-0.141"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10087"
+               d="m 76.1,47.797 c -3.736,-1.236 -7.828,-1.398 -11.307,-1.398 -5.078,0 -11.496,1.164 -12.742,2.891 l -0.049,-2.379 c 0.461,-2.094 6.451,-3.873 11.734,-3.873 1.785,0 9.818,0.816 12.389,2.146"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g10089">
+              <path
+                 id="path10091"
+                 d="m 65.59,48.77 c 2.195,0 4.059,0.172 5.6,0.418 3.301,0.549 5.047,1.486 5.047,2.064 0,0.578 -1.746,1.518 -5.047,2.051 -1.541,0.26 -3.404,0.42 -5.6,0.42 -6.896,0 -10.65,-1.633 -10.65,-2.471 0,-0.838 3.753,-2.482 10.65,-2.482 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#f58536" />
+            </g>
+            <g
+               id="g10093">
+              <path
+                 id="path10095"
+                 d="m 76.236,51.252 0,2.801 c 0,0.016 -0.002,0.031 -0.002,0.047 l 0,-2.803 c 0,-0.016 0.002,-0.029 0.002,-0.045"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10097"
+                 d="m 76.234,51.297 0,2.803 c -0.002,0.02 -0.008,0.039 -0.016,0.059 l 0,-2.803 c 0.009,-0.02 0.014,-0.04 0.016,-0.059"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10099"
+                 d="m 76.219,51.355 0,2.803 c -0.01,0.027 -0.021,0.057 -0.037,0.084 l 0,-2.803 c 0.015,-0.027 0.027,-0.056 0.037,-0.084"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10101"
+                 d="m 76.182,51.439 0,2.803 c -0.318,0.578 -2.029,1.383 -4.992,1.861 -1.541,0.262 -3.404,0.418 -5.6,0.418 -6.896,0 -10.65,-1.629 -10.65,-2.469 l 0,-2.801 c 0,0.838 3.754,2.471 10.65,2.471 2.195,0 4.059,-0.16 5.6,-0.42 2.962,-0.48 4.673,-1.282 4.992,-1.863"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10103"
+               d="m 76.236,51.252 0,2.801 c 0,0.58 -1.746,1.518 -5.047,2.051 -1.541,0.262 -3.404,0.418 -5.6,0.418 -6.896,0 -10.65,-1.629 -10.65,-2.469 l 0,-2.801 c 0,0.838 3.754,2.471 10.65,2.471 2.195,0 4.059,-0.16 5.6,-0.42 3.301,-0.533 5.047,-1.473 5.047,-2.051 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10105"
+               d="m 54.961,71.617 c 0.107,0.545 2.818,0.984 4.146,1.631 l -1.797,4.115 c -1.668,-0.561 -2.154,-0.918 -2.365,-1.246"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g10107">
+              <path
+                 id="path10109"
+                 d="m 76.41,73.201 0,2.799 c 0,0.02 0,0.041 -0.004,0.062 l 0,-2.801 c 0.004,-0.021 0.004,-0.042 0.004,-0.06"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10111"
+                 d="m 76.406,73.262 0,2.801 c -0.002,0.023 -0.01,0.049 -0.018,0.074 l 0,-2.803 c 0.008,-0.025 0.016,-0.049 0.018,-0.072"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10113"
+                 d="m 76.389,73.334 0,2.803 c -0.014,0.039 -0.029,0.078 -0.055,0.119 l 0,-2.801 c 0.025,-0.041 0.041,-0.082 0.055,-0.121"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10115"
+                 d="m 76.334,73.432 0,2.801 c -0.502,0.891 -3.547,2.213 -10.047,2.213 -3.912,0 -7.078,-0.508 -9,-1.07 l -0.691,-3.734 c 1.922,0.564 5.779,2.006 9.691,2.006 6.5,-0.002 9.545,-1.324 10.047,-2.216"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10117"
+               d="m 76.41,73.201 0,2.799 c 0,0.867 -2.967,2.469 -10.123,2.469 -3.912,0 -6.867,-0.461 -9,-1.117 l 0,-2.801 c 2.133,0.656 5.088,1.117 9,1.117 7.156,0 10.123,-1.602 10.123,-2.467 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10119"
+               d="m 27.748,74.484 0,2.605 c -2.219,0 -4.02,-1.785 -4.145,-4.002 l 0,-2.605 c 0.126,2.215 1.926,4.002 4.145,4.002 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g10121">
+              <polygon
+                 id="polygon10123"
+                 points="27.561,74.484 53.602,74.459 53.602,77.062 27.561,77.09 "
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path10125"
+               d="M 76.139,45.514 C 72.332,44.186 66.08,44.137 64.295,44.16 c -5.219,0.07 -11.164,1.307 -12.16,2.854 l -0.041,0.307 0.016,0.951 -0.016,24.83 c 0,0.457 0.963,0.953 1.367,1.357 l -25.867,0.025 c -2.22,0 -4.02,-1.787 -4.02,-4.002 l 0,-44.959 c 0,-2.203 1.8,-3.988 4.02,-3.988 l 44.682,-0.004 c 2.221,0 4.021,1.787 4.021,4.002"
+               inkscape:connector-curvature="0"
+               style="fill:#f58536" />
+            <g
+               id="g10127">
+              <path
+                 id="path10129"
+                 d="M 76.426,56.104 76.41,73.201 c 0,0.865 -2.967,2.467 -10.123,2.467 -3.912,0 -6.867,-0.461 -8.787,-1.025 -1.424,-0.461 -2.43,-0.98 -2.543,-1.369 l 0,-17.01 c 2.08,1.285 6.369,1.963 10.633,1.963 l 0.275,0 c 0.449,-0.014 0.873,-0.014 1.309,-0.029 l 0.176,-0.014 c 0.377,-0.016 0.727,-0.029 1.09,-0.059 0.189,-0.014 0.363,-0.027 0.539,-0.043 0.289,-0.029 0.564,-0.043 0.842,-0.072 0.162,-0.029 0.307,-0.043 0.453,-0.072 0.305,-0.029 0.596,-0.07 0.9,-0.115 2.328,-0.376 4.133,-0.997 5.252,-1.719 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#f58536" />
+            </g>
+          </g>
+        </g>
+        <g
+           display="none"
+           id="nyt_x5F_exporter_x5F_info-2"
+           style="display:none" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-spot-instance">
+      <title
+         id="title11010">ec2-spot-instance</title>
+      <g
+         id="ec2-spot-instance_transform"
+         transform="matrix(0.8490566,0,0,0.8490566,555.07233,34.379059)">
+        <g
+           id="g10585">
+          <g
+             id="g10587">
+            <path
+               id="path10589"
+               d="m 67.4,21.7 c 5,0 9.1,4 9.1,9 l 0,35.5 c 0,5 -4,9 -9.1,9 l -34.7,0 c -5,0 -9.1,-4 -9.1,-9 l 0,-35.5 c 0,-5 4.1,-9 9.1,-9 l 34.7,0 z"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#f58435" />
+          </g>
+          <g
+             id="g10591">
+            <defs
+               id="defs10593">
+              <path
+                 d="m 76.4,66.2 0,3.1 c 0,5 -4,9 -9.1,9 l 0,-3.1 c 5.1,0 9.1,-4.1 9.1,-9 z"
+                 id="SVGID_1_-3"
+                 inkscape:connector-curvature="0" />
+            </defs>
+            <use
+               id="use10596"
+               style="overflow:visible;fill:#9d5025"
+               xlink:href="#SVGID_1_-3"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+            <clipPath
+               id="SVGID_2_-4">
+              <use
+                 id="use10599"
+                 style="overflow:visible"
+                 xlink:href="#SVGID_1_-3"
+                 x="0"
+                 y="0"
+                 width="100%"
+                 height="100%" />
+            </clipPath>
+            <g
+               clip-path="url(#SVGID_2_)"
+               id="g10601"
+               class="st1"
+               style="enable-background:new">
+              <path
+                 id="path10603"
+                 d="m 76.4,66.2 0,3.1 c 0,0.4 0,0.9 -0.1,1.3 l 0,-3.1 c 0.1,-0.5 0.1,-0.9 0.1,-1.3"
+                 class="st2"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10605"
+                 d="m 76.3,67.5 0,3.1 c -0.1,0.5 -0.2,1 -0.3,1.5 L 76,69 c 0.1,-0.6 0.3,-1 0.3,-1.5"
+                 class="st2"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10607"
+                 d="m 76,68.9 0,3.1 c -0.2,0.6 -0.4,1.1 -0.7,1.6 l 0,-3.1 c 0.3,-0.5 0.5,-1 0.7,-1.6"
+                 class="st2"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path10609"
+                 d="m 75.3,70.5 0,3.1 c -1.5,2.8 -4.5,4.7 -7.9,4.7 l 0,-3.1 c 3.4,0 6.4,-1.9 7.9,-4.7"
+                 class="st2"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+          </g>
+          <g
+             id="g10611">
+            <rect
+               id="rect10613"
+               height="3.0999999"
+               width="35.099998"
+               class="st2"
+               y="75.199997"
+               x="32.299999"
+               style="fill:#9d5025" />
+          </g>
+          <g
+             id="g10615">
+            <defs
+               id="defs10617">
+              <path
+                 d="m 32.7,75.2 0,3.1 c -5,0 -9.1,-4 -9.1,-9 l 0,-3.1 c 0,4.9 4,9 9.1,9 z"
+                 id="SVGID_3_-6"
+                 inkscape:connector-curvature="0" />
+            </defs>
+            <use
+               id="use10620"
+               style="overflow:visible;fill:#9d5025"
+               xlink:href="#SVGID_3_-6"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+            <clipPath
+               id="SVGID_4_-7">
+              <use
+                 id="use10623"
+                 style="overflow:visible"
+                 xlink:href="#SVGID_3_-6"
+                 x="0"
+                 y="0"
+                 width="100%"
+                 height="100%" />
+            </clipPath>
+            <g
+               clip-path="url(#SVGID_4_)"
+               id="g10625"
+               class="st3"
+               style="enable-background:new">
+              <path
+                 id="path10627"
+                 d="m 33,75.2 0,3.1 c -5,0 -9.5,-4 -9.5,-9 l 0,-3.1 c 0,5 4.1,9 9.1,9"
+                 class="st2"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+          </g>
+        </g>
+        <text
+           id="text10629"
+           class="st4 st5 st6"
+           transform="translate(35.46,62.6055)"
+           style="font-size:52.30339813px;font-family:HelveticaNeueLTStd-Md;fill:#ffffff">¢</text>
+      </g>
+    </symbol>
+    <symbol
+       id="elastic-beanstalk">
+      <title
+         id="title11034">elastic-beanstalk</title>
+      <g
+         id="elastic-beanstalk_transform"
+         transform="matrix(0.75757576,0,0,0.75757576,47.70658,150.37847)">
+        <polygon
+           id="polygon10668"
+           points="60.2,50 50,50 50,91.2 60.2,86.1 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10670"
+           points="74.5,21.1 79.7,23.7 79.7,39.5 74.5,38.4 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10672"
+           points="64.4,16 50,8.8 50,50 64.4,50 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10674"
+           points="55.5,40.5 74.5,38.4 74.5,21.1 55.5,26.2 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10676"
+           points="79.7,39.5 61.5,41.2 55.5,40.5 74.3,38.4 "
+           class="st2"
+           style="fill:#6b3b19" />
+        <polygon
+           id="polygon10678"
+           points="39.8,50 50,50 50,8.8 39.8,13.9 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10680"
+           points="25.5,78.9 20.3,76.3 20.3,60.5 25.5,61.6 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10682"
+           points="35.6,84 50,91.2 50,50 35.6,50 "
+           class="st1"
+           style="fill:#9d5025" />
+        <polygon
+           id="polygon10684"
+           points="44.5,59.5 25.5,61.6 25.5,78.9 44.5,73.8 "
+           class="st0"
+           style="fill:#f58435" />
+        <polygon
+           id="polygon10686"
+           points="20.3,60.5 38.5,58.8 44.5,59.5 25.7,61.6 "
+           class="st3"
+           style="fill:#fbbf92" />
+      </g>
+    </symbol>
+    <symbol
+       id="elastic-beanstalk-application">
+      <title
+         id="title11069">elastic-beanstalk-application</title>
+      <g
+         id="elastic-beanstalk-application_transform"
+         transform="matrix(0.95890959,0,0,0.95890959,358.97314,-193.29339)">
+        <g
+           id="Layer_1_1_-50">
+          <g
+             id="g10711">
+            <g
+               id="g10713">
+              <g
+                 id="g10715">
+                <path
+                   id="path10717"
+                   d="m -191.1,368.4 0,2.7 c -8.8,14.2 -25.4,20.2 -25.6,20.3 -0.1,0 -0.2,0.2 -0.3,0.4 l 0,-2.7 c 0.1,-0.2 0.2,-0.3 0.3,-0.4 0.2,0 16.8,-6.1 25.6,-20.3"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10719"
+                   d="m -217,389.1 0,2.7 c -0.1,0.2 -0.2,0.4 -0.2,0.6 l 0,-2.7 c 0,-0.3 0.1,-0.5 0.2,-0.6"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10721"
+                   d="m -217.3,389.6 0,2.7 c -0.1,0.3 -0.2,0.6 -0.2,0.9 l 0,-2.7 c 0.1,-0.3 0.1,-0.6 0.2,-0.9"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10723"
+                   d="m -217.5,390.5 0,2.7 c 0,0.2 0,0.4 0,0.5 l 0,-2.7 c 0,-0.2 0,-0.3 0,-0.5"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+              </g>
+              <path
+                 id="path10725"
+                 d="m -217.5,393.7 0,-2.7 c 0,-0.8 0.4,-2.1 0.8,-2.3 0.2,-0.1 16.8,-6.1 25.6,-20.3 l 0,2.7 c -8.8,14.2 -25.4,20.2 -25.6,20.3 -0.4,0.1 -0.8,1.5 -0.8,2.3 z"
+                 class="st0"
+                 inkscape:connector-curvature="0"
+                 style="fill:#6b3a19" />
+              <g
+                 id="g10727">
+                <path
+                   id="path10729"
+                   d="m -189.7,371.6 0,2.7 c -0.1,1.5 -0.3,3.2 -0.6,4.9 l 0,-2.7 c 0.2,-1.7 0.4,-3.4 0.6,-4.9"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10731"
+                   d="m -190.3,376.5 0,2.7 c -0.4,2.7 -1,5.5 -1.8,7.8 l 0,-2.7 c 0.8,-2.3 1.4,-5.1 1.8,-7.8"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10733"
+                   d="m -192.1,384.3 0,2.7 c -0.4,1.2 -0.8,2.2 -1.3,3.1 l 0,-2.7 c 0.5,-0.9 0.9,-1.9 1.3,-3.1"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+                <path
+                   id="path10735"
+                   d="m -193.4,387.4 0,2.7 c -0.3,0.6 -0.7,1.1 -1.1,1.6 -2.7,2.6 -9.7,4.1 -17.3,4.7 l 0,-2.7 c 7.6,-0.6 14.6,-2 17.3,-4.7 0.4,-0.5 0.7,-1 1.1,-1.6"
+                   class="st0"
+                   inkscape:connector-curvature="0"
+                   style="fill:#6b3a19" />
+              </g>
+              <path
+                 id="path10737"
+                 d="m -189.7,371.6 0,2.7 c -0.6,6 -1.9,14.5 -4.8,17.4 -2.7,2.6 -9.7,4.1 -17.3,4.7 l 0,-2.7 c 7.6,-0.6 14.6,-2 17.3,-4.7 2.8,-2.9 4.2,-11.4 4.8,-17.4 z"
+                 class="st0"
+                 inkscape:connector-curvature="0"
+                 style="fill:#6b3a19" />
+              <g
+                 id="g10739">
+                <path
+                   id="path10741"
+                   d="m -215.7,392.5 c 0.7,-0.2 16.7,-5.8 26,-20.9 -0.6,6 -1.9,14.5 -4.8,17.3 -2.7,2.6 -9.7,4.1 -17.3,4.7 l 0,29.3 -8.5,0 0,-29.2 c 0.6,-6.7 1.1,-12.1 6.9,-17.3 4.1,-3.7 15.3,-7 22.3,-7.9 -8.8,14.2 -25.4,20.2 -25.6,20.3 -0.5,0.2 -1,2.1 -0.8,2.6 0.1,0.4 1,1.2 1.4,1.2 0.2,-0.1 0.3,-0.1 0.4,-0.1 z"
+                   class="st1"
+                   inkscape:connector-curvature="0"
+                   style="fill:#f58536" />
+              </g>
+              <g
+                 id="g10743">
+                <rect
+                   id="rect10745"
+                   height="2.7"
+                   width="8.5"
+                   class="st0"
+                   y="422.89999"
+                   x="-220.3"
+                   style="fill:#6b3a19" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           class="st2"
+           id="nyt_x5F_exporter_x5F_info-8"
+           style="display:none" />
+        <g
+           id="CloudTrail" />
+      </g>
+    </symbol>
+    <symbol
+       id="elastic-beanstalk-deployment">
+      <title
+         id="title10200">elastic-beanstalk-deployment</title>
+      <g
+         id="elastic-beanstalk-deployment_transform"
+         transform="matrix(0.90909091,0,0,0.90909091,420.17241,-172.94326)">
+        <g
+           id="g10782">
+          <g
+             id="g10784">
+            <path
+               id="path10786"
+               d="m -181.8,372.2 0,2.7 c -8.8,14.2 -25.4,20.2 -25.6,20.3 -0.1,0 -0.2,0.2 -0.3,0.4 l 0,-2.7 c 0.1,-0.2 0.2,-0.3 0.3,-0.4 0.1,0 16.8,-6.1 25.6,-20.3"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10788"
+               d="m -207.8,392.9 0,2.7 c -0.1,0.2 -0.2,0.3 -0.2,0.6 l 0,-2.7 c 0.1,-0.3 0.1,-0.5 0.2,-0.6"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10790"
+               d="m -207.9,393.4 0,2.7 c -0.1,0.3 -0.2,0.6 -0.2,0.9 l 0,-2.7 c 0,-0.3 0.1,-0.6 0.2,-0.9"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10792"
+               d="m -208.1,394.3 0,2.7 c 0,0.2 0,0.4 0,0.5 l 0,-2.7 c -0.2,-0.2 -0.2,-0.3 0,-0.5"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+          </g>
+          <path
+             id="path10794"
+             d="m -208.3,397.5 0,-2.7 c 0,-0.8 0.4,-2.1 0.8,-2.3 0.2,-0.1 16.8,-6.1 25.6,-20.3 l 0,2.7 c -8.8,14.2 -25.4,20.2 -25.6,20.3 -0.4,0.1 -0.8,1.5 -0.8,2.3 z"
+             class="st0"
+             inkscape:connector-curvature="0"
+             style="fill:#6b3a19" />
+          <g
+             id="g10796">
+            <path
+               id="path10798"
+               d="m -180.4,375.4 0,2.6 c -0.1,1.5 -0.3,3.2 -0.6,4.9 l 0,-2.7 c 0.2,-1.6 0.5,-3.3 0.6,-4.8"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10800"
+               d="m -180.9,380.3 0,2.7 c -0.4,2.7 -1,5.5 -1.8,7.8 l 0,-2.7 c 0.8,-2.3 1.3,-5.1 1.8,-7.8"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10802"
+               d="m -182.8,388.1 0,2.7 c -0.4,1.2 -0.8,2.2 -1.3,3.1 l 0,-2.7 c 0.6,-0.9 1,-1.9 1.3,-3.1"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10804"
+               d="m -184,391.2 0,2.7 c -0.3,0.6 -0.7,1.1 -1.1,1.6 -2.7,2.6 -9.7,4.1 -17.3,4.7 l 0,-2.7 c 7.6,-0.6 14.6,-2 17.3,-4.7 0.3,-0.5 0.7,-1 1.1,-1.6"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+          </g>
+          <path
+             id="path10806"
+             d="m -180.4,375.4 0,2.6 c -0.6,6 -1.9,14.5 -4.8,17.4 -2.7,2.6 -9.7,4.1 -17.3,4.7 l 0,-2.7 c 7.6,-0.6 14.6,-2 17.3,-4.7 2.8,-2.9 4.3,-11.4 4.8,-17.3 z"
+             class="st0"
+             inkscape:connector-curvature="0"
+             style="fill:#6b3a19" />
+          <g
+             id="g10808">
+            <rect
+               id="rect10810"
+               height="2.7"
+               width="9"
+               class="st0"
+               y="427.10001"
+               x="-211.39999"
+               style="fill:#6b3a19" />
+          </g>
+          <g
+             id="g10812">
+            <path
+               id="path10814"
+               d="m -204.1,376.9 0,1.1 c 0,0.6 0,1.3 -0.1,1.9 l 0,-1.1 c -0.1,-0.6 0.1,-1.2 0.1,-1.9"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10816"
+               d="m -204.4,378.8 0,1.2 c -0.1,0.7 -0.3,1.4 -0.5,2.1 l 0,-1.1 c 0.3,-0.8 0.5,-1.5 0.5,-2.2"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10818"
+               d="m -204.9,380.9 0,1.1 c -0.3,0.8 -0.6,1.6 -1,2.3 l 0,-1.1 c 0.5,-0.7 0.8,-1.5 1,-2.3"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+            <path
+               id="path10820"
+               d="m -205.9,383.2 0,1.1 c -2.2,3.8 -6.3,6.4 -11.1,6.4 -7,0 -12.8,-5.7 -12.8,-12.7 l 0,-1.1 c 0,7 5.7,12.7 12.8,12.7 4.9,0 9,-2.6 11.1,-6.4"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:#6b3a19" />
+          </g>
+          <path
+             id="path10822"
+             d="m -204.1,376.9 0,1.1 c 0,7 -5.7,12.7 -12.8,12.7 -7.1,0 -12.8,-5.7 -12.8,-12.7 l 0,-1.1 c 0,7 5.7,12.7 12.8,12.7 7.1,0 12.8,-5.7 12.8,-12.7 z"
+             class="st0"
+             inkscape:connector-curvature="0"
+             style="fill:#6b3a19" />
+          <g
+             id="g10824">
+            <path
+               id="path10826"
+               d="m -216.9,389.6 c -7,0 -12.8,-5.7 -12.8,-12.7 0,-7 5.7,-12.7 12.8,-12.7 7.1,0 12.8,5.7 12.8,12.7 0,7 -5.8,12.7 -12.8,12.7 z"
+               class="st1"
+               inkscape:connector-curvature="0"
+               style="fill:#f58536" />
+          </g>
+          <g
+             id="g10828">
+            <path
+               id="path10830"
+               d="m -220.3,386.7 6.6,0 0,-12.6 4.7,0 -8,-7.9 -8,7.9 4.7,0 0,12.6 z m -2.5,-13.5 5.8,-5.7 5.8,5.7 -3.4,0 0,12.6 -4.8,0 0,-12.6 c 0,0 -3.4,0 -3.4,0 z"
+               class="st2"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+          <path
+             id="path10832"
+             d="m -206.4,396.3 c -0.1,0.1 -0.2,0.1 -0.3,0.1 -0.4,0 -1.3,-0.8 -1.4,-1.2 -0.2,-0.5 0.3,-2.4 0.8,-2.6 0.2,-0.1 16.8,-6.1 25.6,-20.3 -6,0.8 -15.1,3.4 -20.2,6.4 0,0.3 0,0.6 0,0.9 0,5.4 -3.5,10.1 -8.3,11.9 -0.4,1.9 0.2,3.9 -0.8,6.1 l 0,29.4 9,0 0,-29.6 c 7,-0.6 14.4,-2 17,-4.7 2.9,-2.9 4.1,-11.4 4.7,-17.3 -9.2,15.1 -25.3,20.6 -26.1,20.9 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:#f58536" />
+        </g>
+        <g
+           class="st3"
+           id="nyt_x5F_exporter_x5F_info-12"
+           style="display:none" />
+        <g
+           id="CloudTrail-6" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-ami">
+      <title
+         id="title11145">ec2-ami</title>
+      <g
+         id="ec2-ami_transform"
+         transform="matrix(0.84704288,0,0,0.84704288,263.98371,149.85034)">
+        <g
+           id="g9849">
+          <path
+             id="path9851"
+             d="m 76.562,70.677 0,2.967 c 0,0.23 -0.018,0.457 -0.049,0.68 l 0,-2.967 c 0.032,-0.221 0.049,-0.45 0.049,-0.68"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path9853"
+             d="m 76.514,71.356 0,2.967 c -0.039,0.264 -0.098,0.52 -0.178,0.768 l 0,-2.967 c 0.08,-0.248 0.139,-0.504 0.178,-0.768"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path9855"
+             d="m 76.336,72.124 0,2.967 c -0.094,0.291 -0.215,0.57 -0.361,0.834 l 0,-2.967 c 0.146,-0.264 0.267,-0.543 0.361,-0.834"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <path
+             id="path9857"
+             d="m 75.975,72.958 0,2.967 c -0.809,1.465 -2.371,2.459 -4.174,2.459 l 0,-2.967 c 1.803,0 3.365,-0.994 4.174,-2.459"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path9859"
+           d="m 76.562,70.677 0,2.967 c 0,2.615 -2.127,4.74 -4.762,4.74 l 0,-2.967 c 2.636,0 4.762,-2.127 4.762,-4.74 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g9861">
+          <path
+             id="path9863"
+             d="m 28.199,75.417 0,2.967 c -2.635,0 -4.762,-2.125 -4.762,-4.74 l 0,-2.967 c 10e-4,2.613 2.127,4.74 4.762,4.74"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+        </g>
+        <path
+           id="path9865"
+           d="m 28.199,75.417 0,2.967 c -2.635,0 -4.762,-2.125 -4.762,-4.74 l 0,-2.967 c 10e-4,2.613 2.127,4.74 4.762,4.74 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9d5025" />
+        <g
+           id="g9867">
+          <polygon
+             id="polygon9869"
+             points="72.893,74.661 71.801,78.384 28.199,78.384 27.215,74.983 "
+             style="fill:#9d5025" />
+        </g>
+        <g
+           id="g9871">
+          <path
+             id="path9873"
+             d="m 71.801,21.616 c 2.635,0 4.762,2.125 4.762,4.741 l 0,44.319 c 0,2.613 -2.127,4.74 -4.762,4.74 l -43.602,0 c -2.635,0 -4.762,-2.127 -4.762,-4.74 l 0,-44.319 c 0,-2.616 2.127,-4.741 4.762,-4.741 0,0 43.602,0 43.602,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:#f58536" />
+        </g>
+        <rect
+           id="rect9875"
+           height="15.868"
+           width="33.667999"
+           y="30.688999"
+           x="33.146"
+           style="fill:#ffffff" />
+        <rect
+           id="rect9877"
+           height="10.627"
+           width="7.9860001"
+           y="33.312"
+           x="35.716999"
+           style="fill:#f58536" />
+        <rect
+           id="rect9879"
+           height="10.627"
+           width="7.9899998"
+           y="33.312"
+           x="45.984001"
+           style="fill:#f58536" />
+        <rect
+           id="rect9881"
+           height="10.627"
+           width="7.9899998"
+           y="33.312"
+           x="56.256001"
+           style="fill:#f58536" />
+        <rect
+           id="rect9883"
+           height="15.869"
+           width="33.667999"
+           y="51.942001"
+           x="33.146"
+           style="fill:#ffffff" />
+        <rect
+           id="rect9885"
+           height="10.627"
+           width="7.9860001"
+           y="54.563"
+           x="35.716999"
+           style="fill:#f58536" />
+        <rect
+           id="rect9887"
+           height="10.627"
+           width="7.9899998"
+           y="54.563"
+           x="45.984001"
+           style="fill:#f58536" />
+        <rect
+           id="rect9889"
+           height="10.627"
+           width="7.9899998"
+           y="54.563"
+           x="56.256001"
+           style="fill:#f58536" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-cloudwatch">
+      <title
+         id="title11180">ec2-cloudwatch</title>
+      <g
+         id="ec2-cloudwatch_transform"
+         transform="matrix(0.84545147,0,0,0.84545147,340.78489,149.17525)">
+        <g
+           id="Layer_3-6" />
+        <g
+           id="Layer_1-1">
+          <g
+             id="g9930">
+            <g
+               id="g9932">
+              <path
+                 id="path9934"
+                 d="m 76.612,70.723 0,2.975 c 0,0.23 -0.016,0.457 -0.049,0.68 l 0,-2.975 c 0.034,-0.221 0.049,-0.448 0.049,-0.68"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path9936"
+                 d="m 76.563,71.402 0,2.975 c -0.039,0.262 -0.098,0.518 -0.174,0.764 l 0,-2.973 c 0.077,-0.244 0.135,-0.502 0.174,-0.766"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path9938"
+                 d="m 76.39,72.168 0,2.973 c -0.096,0.291 -0.217,0.568 -0.361,0.832 l 0,-2.973 c 0.144,-0.262 0.265,-0.541 0.361,-0.832"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+              <path
+                 id="path9940"
+                 d="m 76.028,73 0,2.973 c -0.809,1.467 -2.379,2.457 -4.186,2.457 l 0,-2.973 c 1.807,0 3.378,-0.988 4.186,-2.457"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path9942"
+               d="m 76.612,70.723 0,2.975 c 0,2.619 -2.131,4.732 -4.77,4.732 l -1.574,-3.875 c 2.641,0 6.344,-1.211 6.344,-3.832 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g9944">
+              <path
+                 id="path9946"
+                 d="m 28.157,75.457 0,2.973 c -2.639,0 -4.77,-2.113 -4.77,-4.732 l 0,-2.975 c 0.001,2.621 2.132,4.734 4.77,4.734"
+                 inkscape:connector-curvature="0"
+                 style="fill:#9d5025" />
+            </g>
+            <path
+               id="path9948"
+               d="m 28.157,75.457 0,2.973 c -2.639,0 -4.77,-2.113 -4.77,-4.732 l 0,-2.975 c 0.001,2.621 2.132,4.734 4.77,4.734 z"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <g
+               id="g9950">
+              <polygon
+                 id="polygon9952"
+                 points="71.843,75.457 71.843,78.43 28.157,78.43 26.769,74.721 "
+                 style="fill:#9d5025" />
+            </g>
+            <g
+               id="g9954">
+              <path
+                 id="path9956"
+                 d="m 71.843,21.57 c 2.639,0 4.77,2.113 4.77,4.734 l 0,44.418 c 0,2.621 -2.131,4.734 -4.77,4.734 l -43.686,0 c -2.639,0 -4.77,-2.113 -4.77,-4.734 l 0,-44.417 c 0,-2.621 2.131,-4.734 4.77,-4.734 l 43.686,0 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#f58536" />
+            </g>
+            <rect
+               id="rect9958"
+               height="11.285"
+               width="5.6820002"
+               y="54.936001"
+               x="51.104"
+               style="fill:#ffffff" />
+            <rect
+               id="rect9960"
+               height="17.077999"
+               width="5.6859999"
+               y="49.143002"
+               x="58.070999"
+               style="fill:#ffffff" />
+            <rect
+               id="rect9962"
+               height="7.4320002"
+               width="5.6859999"
+               y="58.789001"
+               x="65.036003"
+               style="fill:#ffffff" />
+            <polygon
+               id="polygon9964"
+               points="71.134,70.123 71.134,69.305 71.134,67.881 71.134,67.062 70.312,67.062 51.466,67.062 50.644,67.062 50.644,67.881 50.644,69.305 50.644,70.123 51.466,70.123 70.312,70.123 "
+               style="fill:#ffffff" />
+          </g>
+        </g>
+        <g
+           display="none"
+           id="nyt_x5F_exporter_x5F_info-9"
+           style="display:none" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-container-service">
+      <g
+         id="g11099"
+         transform="matrix(0.80807355,0,0,0.80807355,4.2995363,14.623068)">
+        <polygon
+           style="fill:#9d5025"
+           points="38.848,34.073 58.518,37.808 53.933,38.535 34.46,35.281 "
+           id="polygon9997" />
+        <polygon
+           style="fill:#9d5025"
+           points="35.132,66.795 58.518,62.447 54.147,61.768 31.052,65.569 "
+           id="polygon9999" />
+        <polygon
+           style="fill:#f58536"
+           points="25.382,72.67 25.382,27.685 32.328,29.273 32.328,71.085 "
+           id="polygon10001" />
+        <polygon
+           style="fill:#9d5025"
+           points="32.328,24.212 32.328,76.191 28.674,74.364 28.674,26.039 "
+           id="polygon10003" />
+        <polygon
+           style="fill:#9d5025"
+           points="22.402,29.175 22.402,71.228 25.382,72.719 25.382,27.685 "
+           id="polygon10005" />
+        <polygon
+           style="fill:#f58536"
+           points="32.328,76.191 32.328,24.212 39.437,26.23 39.437,74.181 "
+           id="polygon10007" />
+        <polygon
+           style="fill:#f58536"
+           points="32.328,67.301 32.328,76.191 63.356,67.42 63.356,61.537 "
+           id="polygon10009" />
+        <polygon
+           style="fill:#f58536"
+           points="32.328,32.835 32.328,24.212 63.411,33.036 63.411,38.737 "
+           id="polygon10011" />
+        <polygon
+           style="fill:#f58536"
+           points="63.5,33.02 63.5,67.42 58.518,68.788 58.518,31.647 "
+           id="polygon10013" />
+        <polygon
+           style="fill:#9d5025"
+           points="58.518,62.447 58.518,37.808 53.9,38.541 53.9,61.729 "
+           id="polygon10015" />
+        <polygon
+           style="fill:#f58536"
+           points="78.09,45.659 78.09,36.461 73.523,35.091 73.523,45.202 "
+           id="polygon10017" />
+        <polygon
+           style="fill:#9d5025"
+           points="73.523,45.245 73.523,35.091 60.026,37.282 60.026,45.969 "
+           id="polygon10019" />
+        <polygon
+           style="fill:#f58536"
+           points="60.997,43.949 60.997,31.333 67.95,33.42 67.95,44.645 "
+           id="polygon10021" />
+        <polygon
+           style="fill:#9d5025"
+           points="60.997,44.073 60.997,31.333 47.321,34.532 47.321,45.118 "
+           id="polygon10023" />
+        <polygon
+           style="fill:#6b3a19"
+           points="61.698,44.019 67.95,44.645 53.773,45.55 47.321,45.118 "
+           id="polygon10025" />
+        <polygon
+           style="fill:#6b3a19"
+           points="64.744,46.285 60.026,45.969 73.803,45.23 78.09,45.659 "
+           id="polygon10027" />
+        <polygon
+           style="fill:#f58536"
+           points="78.09,54.928 78.09,64.125 73.523,65.495 73.523,55.384 "
+           id="polygon10029" />
+        <polygon
+           style="fill:#9d5025"
+           points="73.523,55.341 73.523,65.495 60.026,63.304 60.026,54.618 "
+           id="polygon10031" />
+        <polygon
+           style="fill:#f58536"
+           points="60.997,56.637 60.997,69.253 67.95,67.167 67.95,55.942 "
+           id="polygon10033" />
+        <polygon
+           style="fill:#9d5025"
+           points="60.997,56.513 60.997,69.253 47.321,66.055 47.321,55.468 "
+           id="polygon10035" />
+        <polygon
+           style="fill:#fbbf93"
+           points="61.698,56.567 67.95,55.942 53.773,55.036 47.321,55.468 "
+           id="polygon10037" />
+        <polygon
+           style="fill:#fbbf93"
+           points="64.744,54.302 60.026,54.618 73.803,55.356 78.09,54.928 "
+           id="polygon10039" />
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-elastic-ip">
+      <title
+         id="title11244">ec2-elastic-ip</title>
+      <g
+         id="ec2-elastic-ip_transform"
+         transform="matrix(0.66270028,0,0,0.66270028,510.26877,157.67854)">
+        <g
+           id="Layer_3-7" />
+        <g
+           id="Layer_1_1_-9">
+          <g
+             id="g10174">
+            <polygon
+               id="polygon10176"
+               points="83.952,47.15 83.952,52.82 77.796,55.127 75.255,48.793 "
+               style="fill:#9d5025" />
+          </g>
+          <g
+             id="g10178">
+            <rect
+               id="rect10180"
+               height="5.6680002"
+               width="31.006001"
+               y="49.43"
+               x="30.606001"
+               style="fill:#9d5025" />
+          </g>
+          <g
+             id="g10182">
+            <polyline
+               id="polyline10184"
+               points="30.794,49.43 30.794,55.098 30.79,55.107 30.79,49.438 30.794,49.43   "
+               style="fill:#9d5025" />
+            <path
+               id="path10186"
+               d="m 30.837,49.328 0,5.67 c -0.148,0.465 -0.389,1.02 -0.621,1.439 l 0,-5.67 c 0.232,-0.42 0.426,-0.865 0.574,-1.33"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+            <path
+               id="path10188"
+               d="m 30.216,50.768 0,5.67 c -1.277,2.322 -3.74,3.891 -6.604,3.891 -4.184,0 -7.564,-3.361 -7.564,-7.508 l 0,-5.67 c 0,4.148 3.381,7.51 7.564,7.51 2.864,-0.001 5.326,-1.571 6.604,-3.893"
+               inkscape:connector-curvature="0"
+               style="fill:#9d5025" />
+          </g>
+          <path
+             id="path10190"
+             d="m 30.794,49.43 0,5.668 c -0.971,3.039 -3.797,5.23 -7.182,5.23 -4.184,0 -7.564,-3.361 -7.564,-7.508 l 0,-5.67 c 0,4.148 3.381,7.51 7.564,7.51 3.385,0 6.211,-2.191 7.182,-5.23 z"
+             inkscape:connector-curvature="0"
+             style="fill:#9d5025" />
+          <g
+             id="g10192">
+            <path
+               id="path10194"
+               d="m 61.612,38.854 16.248,6.046 0.248,0.086 0.25,0.09 5.594,2.074 -5.594,2.072 -0.266,0.123 -0.232,0.085 -16.248,6.049 0,-6.049 -30.818,0 c -0.971,3.039 -3.797,5.23 -7.182,5.23 -4.184,0 -7.564,-3.361 -7.564,-7.51 0,-4.149 3.381,-7.48 7.564,-7.48 3.385,0 6.211,2.193 7.182,5.23 l 30.818,0 0,-6.046 z"
+               inkscape:connector-curvature="0"
+               style="fill:#f58536" />
+          </g>
+          <g
+             id="g10196">
+            <polygon
+               id="polygon10198"
+               points="77.86,49.43 77.86,55.098 61.612,61.146 61.612,55.479 "
+               style="fill:#9d5025" />
+          </g>
+        </g>
+        <g
+           display="none"
+           id="nyt_x5F_exporter_x5F_info-7"
+           style="display:none" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="149.64615"
+     inkscape:cy="745.52167"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>AWS compute</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10288"
+       transform="translate(190.02041,33.588749)">
+      <polygon
+         id="polygon10290"
+         points="48.9,78.504 47.904,74.969 72.859,75.809 72.859,78.504 "
+         style="fill:#9d5025" />
+    </g>
+    <use
+       xlink:href="#ec2"
+       id="use11529" />
+    <use
+       xlink:href="#elastic-load-balancing"
+       id="use11939" />
+    <use
+       xlink:href="#ec2-instances"
+       id="use12392" />
+    <use
+       xlink:href="#g10264"
+       id="use12864" />
+    <use
+       xlink:href="#ec2-optimized-instance"
+       id="use13355" />
+    <use
+       xlink:href="#ec2-db-on-instance"
+       id="use13879" />
+    <use
+       xlink:href="#ec2-spot-instance"
+       id="use14430" />
+    <use
+       xlink:href="#elastic-beanstalk"
+       id="use14993" />
+    <use
+       xlink:href="#elastic-beanstalk-application"
+       id="use15579" />
+    <use
+       xlink:href="#elastic-beanstalk-deployment"
+       id="use16195" />
+    <use
+       xlink:href="#ec2-ami"
+       id="use16834" />
+    <use
+       xlink:href="#ec2-cloudwatch"
+       id="use17496" />
+    <use
+       xlink:href="#ec2-container-service"
+       id="use18182"
+       transform="translate(412.6859,136.85251)" />
+    <use
+       xlink:href="#ec2-elastic-ip"
+       id="use18886" />
+  </g>
+  <style
+     id="style10494"
+     type="text/css">
+	.st0{fill:none;stroke:#7D7D7D;stroke-miterlimit:10;stroke-dasharray:2.1247;}
+	.st1{fill:#F58435;}
+	.st2{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st3{fill:#9D5025;}
+	.st4{clip-path:url(#SVGID_4_);enable-background:new    ;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'HelveticaNeueLTStd-Md';}
+	.st7{font-size:9.2606px;}
+</style>
+  <style
+     id="style10583"
+     type="text/css">
+	.st0{fill:#F58435;}
+	.st1{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st2{fill:#9D5025;}
+	.st3{clip-path:url(#SVGID_4_);enable-background:new    ;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'HelveticaNeueLTStd-Md';}
+	.st6{font-size:52.3034px;}
+</style>
+  <style
+     id="style10666"
+     type="text/css">
+	.st0{fill:#F58435;}
+	.st1{fill:#9D5025;}
+	.st2{fill:#6B3B19;}
+	.st3{fill:#FBBF92;}
+</style>
+  <style
+     id="style10708"
+     type="text/css">
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{display:none;}
+</style>
+  <style
+     id="style10780"
+     type="text/css">
+	.st0{fill:#6B3A19;}
+	.st1{fill:#F58536;}
+	.st2{fill:#FFFFFF;}
+	.st3{display:none;}
+</style>
+  <style
+     id="style10874"
+     type="text/css">
+	.st0{fill:#F58435;}
+	.st1{fill:#9D5025;}
+	.st2{fill:#6B3B19;}
+	.st3{fill:#FBBF92;}
+</style>
+</svg>
