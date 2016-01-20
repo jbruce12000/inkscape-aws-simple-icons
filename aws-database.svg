@@ -23,6 +23,8 @@
      id="defs11003">
     <symbol
        id="elasticache-memcached">
+      <title
+         id="title24072">elasticache-memcached</title>
       <g
          id="elasticache-memcached_transform"
          transform="matrix(0.8538551,0,0,0.8538551,39.128706,59.829634)">
@@ -109,6 +111,8 @@
     </symbol>
     <symbol
        id="elastic-cache">
+      <title
+         id="title25194">elastic-cache</title>
       <g
          id="elastic-cache_transform"
          transform="matrix(0.75503356,0,0,0.75503356,119.11829,68.043976)">
@@ -223,6 +227,8 @@
     </symbol>
     <symbol
        id="elastic-cache-node">
+      <title
+         id="title26327">elastic-cache-node</title>
       <g
          id="elastic-cache-node_transform"
          transform="matrix(0.8538551,0,0,0.8538551,189.14219,59.829634)">
@@ -373,6 +379,8 @@
     </symbol>
     <symbol
        id="elastic-cache-redis">
+      <title
+         id="title27448">elastic-cache-redis</title>
       <g
          id="elastic-cache-redis_transform"
          transform="matrix(0.8538551,0,0,0.8538551,264.14893,59.829634)">
@@ -459,6 +467,8 @@
     </symbol>
     <symbol
        id="rds">
+      <title
+         id="title28570">rds</title>
       <g
          id="rds_transform"
          transform="matrix(0.70532915,0,0,0.70532915,346.62373,68.739838)">
@@ -561,6 +571,8 @@
     </symbol>
     <symbol
        id="rds-db-instance">
+      <title
+         id="title29715">rds-db-instance</title>
       <g
          id="rds-db-instance_transform"
          transform="matrix(1.0204082,0,0,1.0204082,405.92755,56.573629)">
@@ -751,6 +763,8 @@
     </symbol>
     <symbol
        id="rds-instance-read-replica">
+      <title
+         id="title30862">rds-instance-read-replica</title>
       <g
          id="rds-instance-read-replica_transform"
          transform="matrix(1.0344828,0,0,1.0344828,480.23126,56.373066)">
@@ -950,6 +964,8 @@
     </symbol>
     <symbol
        id="rds-instance-standby">
+      <title
+         id="title32010">rds-instance-standby</title>
       <g
          id="rds-instance-standby_transform"
          transform="matrix(1.0227273,0,0,1.0227273,555.77406,56.625809)">
@@ -1149,6 +1165,8 @@
     </symbol>
     <symbol
        id="rds-mssql-instance">
+      <title
+         id="title33302">rds-mssql-instance</title>
       <g
          id="rds-mssql-instance_transform"
          transform="matrix(0.85714286,0,0,0.85714286,21.921404,222.49077)">
@@ -1482,6 +1500,8 @@
     </symbol>
     <symbol
        id="rds-mysqldb-instance">
+      <title
+         id="title34463">rds-mysqldb-instance</title>
       <g
          id="rds-mysqldb-instance_transform"
          transform="matrix(0.85227273,0,0,0.85227273,97.546161,222.68119)">
@@ -1731,6 +1751,8 @@
     </symbol>
     <symbol
        id="rds-oracledb-instance">
+      <title
+         id="title35641">rds-oracledb-instance</title>
       <g
          id="rds-oracledb-instance_transform"
          transform="matrix(0.85714286,0,0,0.85714286,247.93659,222.49077)">
@@ -2063,6 +2085,8 @@
     </symbol>
     <symbol
        id="rds-piop">
+      <title
+         id="title36760">rds-piop</title>
       <g
          id="rds-piop_transform"
          transform="matrix(0.8490566,0,0,0.8490566,399.06058,221.90128)">
@@ -2105,6 +2129,8 @@
     </symbol>
     <symbol
        id="rds-postgressql-instance">
+      <title
+         id="title37907">rds-postgressql-instance</title>
       <g
          id="rds-postgressql-instance_transform"
          transform="matrix(0.8538551,0,0,0.8538551,474.11726,222.22024)">
@@ -2277,6 +2303,8 @@
     </symbol>
     <symbol
        id="rds-sql-master">
+      <title
+         id="title39053">rds-sql-master</title>
       <g
          id="rds-sql-master_transform"
          transform="matrix(0.85227273,0,0,0.85227273,549.57656,222.76642)">
@@ -2435,6 +2463,8 @@
     </symbol>
     <symbol
        id="rds-sql-slave">
+      <title
+         id="title40201">rds-sql-slave</title>
       <g
          id="rds-sql-slave_transform"
          transform="matrix(0.85227273,0,0,0.85227273,624.91494,222.68119)">
@@ -2597,6 +2627,8 @@
     </symbol>
     <symbol
        id="redshift">
+      <title
+         id="title41327">redshift</title>
       <g
          id="redshift_transform"
          transform="matrix(0.75,0,0,0.75,35.000007,371.70863)">
@@ -3490,6 +3522,8 @@
     </symbol>
     <symbol
        id="simple-db">
+      <title
+         id="title42647">simple-db</title>
       <g
          id="simple-db_transform"
          transform="matrix(0.75,0,0,0.75,283.19538,373.88363)">
@@ -3517,6 +3551,8 @@
     </symbol>
     <symbol
        id="simple-db-domain">
+      <title
+         id="title43800">simple-db-domain</title>
       <g
          id="simple-db-domain_transform"
          transform="matrix(0.80071176,0,0,0.80071176,361.63343,366.92811)">
@@ -3731,6 +3767,8 @@
     </symbol>
     <symbol
        id="database-migration-service">
+      <title
+         id="title44934">database-migration-service</title>
       <g
          id="database-migration-service_transform"
          transform="matrix(0.70754717,0,0,0.70754717,447.4691,374.47797)">
@@ -3823,7 +3861,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db">
+       id="dynamodb">
+      <title
+         id="title46076">dynamodb</title>
       <g
          id="dynamo-db_transform"
          transform="matrix(0.70422535,0,0,0.70422535,519.82377,374.73574)">
@@ -3948,7 +3988,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-attribute">
+       id="dynamodb-attribute">
+      <title
+         id="title47222">dynamodb-attribute</title>
       <g
          id="dynamo-db-attribute_transform"
          transform="matrix(0.82116786,0,0,0.82116786,45.470182,516.67169)">
@@ -4084,7 +4126,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-attributes">
+       id="dynamodb-attributes">
+      <title
+         id="title48381">dynamodb-attributes</title>
       <g
          id="dynamo-db-attributes_transform"
          transform="matrix(0.8587786,0,0,0.8587786,141.9325,515.8593)">
@@ -4282,7 +4326,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-global-secondary-index">
+       id="dynamodb-global-secondary-index">
+      <title
+         id="title49568">dynamodb-global-secondary-index</title>
       <g
          id="dynamo-db-global-secondary-index_transform"
          transform="matrix(0.84905663,0,0,0.84905663,219.26146,515.98439)">
@@ -4604,7 +4650,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-item">
+       id="dynamodb-item">
+      <title
+         id="title50717">dynamodb-item</title>
       <g
          id="dynamo-db-item_transform"
          transform="matrix(0.80500895,0,0,0.80500895,308.54502,517.10122)">
@@ -4740,7 +4788,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-items">
+       id="dynamodb-items">
+      <title
+         id="title51879">dynamodb-items</title>
       <g
          id="dynamo-db-items_transform"
          transform="matrix(0.85551333,0,0,0.85551333,390.56722,516.01538)">
@@ -4939,7 +4989,9 @@
       </g>
     </symbol>
     <symbol
-       id="dynamo-db-table">
+       id="dynamodb-table">
+      <title
+         id="title53048">dynamodb-table</title>
       <g
          id="dynamo-db-table_transform"
          transform="matrix(0.74257428,0,0,0.74257428,486.49988,518.29505)">
@@ -5182,7 +5234,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="342.91931"
+     inkscape:cx="198.99074"
      inkscape:cy="582.74622"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -5720,6 +5772,62 @@
     <use
        xlink:href="#dynamo-db-table"
        id="use43326" />
+    <use
+       id="use54196"
+       xlink:href="#dynamodb"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-484.07427,107.62646)" />
+    <use
+       id="use54267"
+       xlink:href="#dynamodb-attribute"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(54.899996,-39.998352)" />
+    <use
+       id="use54353"
+       xlink:href="#dynamodb-attributes"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(42.985713,-31.72092)" />
+    <use
+       id="use54478"
+       xlink:href="#dynamodb-global-secondary-index"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(43.999995,-29.936204)" />
+    <use
+       id="use54591"
+       xlink:href="#dynamodb-item"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(37.592853,-31.729815)" />
+    <use
+       id="use54677"
+       xlink:href="#dynamodb-items"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(37.371399,-33.186719)" />
+    <use
+       id="use54781"
+       xlink:href="#dynamodb-table"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(22.799977,-32.690274)" />
   </g>
   <style
      id="style19812"
