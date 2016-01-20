@@ -3562,6 +3562,8 @@
     </symbol>
     <symbol
        id="ec2-container-service">
+      <title
+         id="title22324">ec2-container-service</title>
       <g
          id="g11099"
          transform="matrix(0.80807355,0,0,0.80807355,4.2995363,14.623068)">
@@ -3736,7 +3738,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="255.99904"
+     inkscape:cx="112.07047"
      inkscape:cy="804.44142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
