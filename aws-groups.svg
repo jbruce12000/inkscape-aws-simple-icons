@@ -140,6 +140,42 @@
            id="tspan32396"
            sodipodi:role="line">AZ</tspan></text>
     </symbol>
+    <symbol
+       id="region">
+      <title
+         id="title33424">region</title>
+      <text
+         sodipodi:linespacing="125%"
+         id="text33347"
+         y="549.23285"
+         x="295.93259"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="549.23285"
+           x="295.93259"
+           id="tspan33349"
+           sodipodi:role="line">region</tspan></text>
+      <rect
+         rx="22.031248"
+         ry="22.031246"
+         y="424.70724"
+         x="278.45187"
+         height="130"
+         width="130"
+         id="rect33351"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="313.00552"
+         y="514.96497"
+         id="text33353"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan33355"
+           x="313.00552"
+           y="514.96497">R</tspan></text>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -209,7 +245,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-177.44298,-344.46202)" />
+       transform="translate(-177.44298,-344.46203)" />
     <use
        id="use33313"
        xlink:href="#g32943"
@@ -217,6 +253,18 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-374.95059,120.73613)" />
+       transform="translate(-374.95059,120.73612)" />
+    <use
+       xlink:href="#g33362"
+       id="use33378"
+       transform="translate(36.365492,-19.192898)" />
+    <use
+       id="use33470"
+       xlink:href="#region"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-42.266543,-247.96956)" />
   </g>
 </svg>
