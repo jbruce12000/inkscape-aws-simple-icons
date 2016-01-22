@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg13254"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="aws-groups.svg">
+  <title
+     id="title33001">AWS groups</title>
+  <defs
+     id="defs13256">
+    <symbol
+       id="g22975">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="108.04423"
+         y="516.30396"
+         id="text22959"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan22961"
+           x="108.04423"
+           y="516.30396">security group</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999978, 7.99999978;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect22963"
+         width="130"
+         height="130"
+         x="87.533035"
+         y="391.77835"
+         ry="22.031246"
+         rx="22.031248" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.99999964;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999999, 7.99999999;stroke-dashoffset:8;stroke-opacity:1"
+         id="rect22965"
+         width="130"
+         height="130"
+         x="87.533035"
+         y="391.77829"
+         ry="22.031244"
+         rx="22.031248" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text22967"
+         y="483.0462"
+         x="96.832886"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="483.0462"
+           x="96.832886"
+           id="tspan22969"
+           sodipodi:role="line">SG</tspan></text>
+    </symbol>
+    <symbol
+       id="g23093">
+      <text
+         sodipodi:linespacing="125%"
+         id="text23042-3"
+         y="498.72525"
+         x="412.10013"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="498.72525"
+           x="412.10013"
+           id="tspan23044-9"
+           sodipodi:role="line">auto scaling group</tspan></text>
+      <rect
+         rx="22.031248"
+         ry="22.031246"
+         y="374.19965"
+         x="394.61942"
+         height="130"
+         width="130"
+         id="rect23046-1"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8, 4, 2, 4;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="403.91925"
+         y="465.4675"
+         id="text23050-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan23052-4"
+           x="403.91925"
+           y="465.4675">ASG</tspan></text>
+    </symbol>
+    <symbol
+       id="g32943">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f58536;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="443.59885"
+         y="180.52716"
+         id="text32388"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan32390"
+           x="443.59885"
+           y="180.52716">availability zone</tspan></text>
+      <rect
+         style="fill:none;stroke:#f58536;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8, 4, 2, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect32392"
+         width="130"
+         height="130"
+         x="426.11813"
+         y="56.001556"
+         ry="22.031246"
+         rx="22.031248" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text32394"
+         y="147.26941"
+         x="435.41797"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="147.26941"
+           x="435.41797"
+           id="tspan32396"
+           sodipodi:role="line">AZ</tspan></text>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="437.78328"
+     inkscape:cy="742.80134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13259">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>AWS groups</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       transform="translate(0,-62.362205)"
+       xlink:href="#symbol13238"
+       id="use13243"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#g22804"
+       id="use22818" />
+    <g
+       id="use22993"
+       transform="translate(-38.385797,-336.3808)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text23042"
+         y="516.30396"
+         x="108.04423"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="516.30396"
+           x="108.04423"
+           id="tspan23044"
+           sodipodi:role="line">security group</tspan></text>
+      <rect
+         rx="22.031248"
+         ry="22.031246"
+         y="391.77835"
+         x="87.533035"
+         height="130"
+         width="130"
+         id="rect23046"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999978, 7.99999978;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         rx="22.031248"
+         ry="22.031244"
+         y="391.77829"
+         x="87.533035"
+         height="130"
+         width="130"
+         id="rect23048"
+         style="fill:none;stroke:#ff0000;stroke-width:1.99999964;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999999, 7.99999999;stroke-dashoffset:8;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="96.832886"
+         y="483.0462"
+         id="text23050"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan23052"
+           x="96.832886"
+           y="483.0462">SG</tspan></text>
+    </g>
+    <use
+       xlink:href="#g23093"
+       id="auto-scaling-group"
+       transform="translate(-171.72593,-318.19805)">
+      <title
+         id="title23124">auto-scaling-group</title>
+    </use>
+    <use
+       xlink:href="#g32943"
+       id="availability-zone">
+      <title
+         id="title32980">availability-zone</title>
+    </use>
+  </g>
+</svg>
