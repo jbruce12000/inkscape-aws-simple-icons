@@ -67,7 +67,7 @@
            sodipodi:role="line">SG</tspan></text>
     </symbol>
     <symbol
-       id="g23093"
+       id="auto-scaling-group"
        inkscape:label="#auto-scaling-group">
       <title
          id="title33173">auto-scaling-group</title>
@@ -104,7 +104,7 @@
            y="465.4675">ASG</tspan></text>
     </symbol>
     <symbol
-       id="g32943"
+       id="availability-zone"
        inkscape:label="#availability-zone">
       <title
          id="title33212">availability-zone</title>
@@ -176,6 +176,250 @@
            x="313.00552"
            y="514.96497">R</tspan></text>
     </symbol>
+    <symbol
+       id="elastic-beanstalk-container"
+       inkscape:label="#elastic-beanstalk-container">
+      <title
+         id="title12452">elastic-beanstalk-container</title>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="62.082268"
+         y="473.97647"
+         id="text12965"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12967"
+           x="62.082268"
+           y="473.97647">ebs container</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect12969"
+         width="130"
+         height="130"
+         x="44.601555"
+         y="349.45087"
+         ry="22.031246"
+         rx="22.031248" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12971"
+         y="442.23398"
+         x="31.678041"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="442.23398"
+           x="31.678041"
+           id="tspan12973"
+           sodipodi:role="line">EBS</tspan></text>
+      <g
+         transform="matrix(0.44245465,0,0,0.44245465,34.052216,269.24105)"
+         id="use13301">
+        <title
+           id="title15383">elastic-beanstalk</title>
+        <g
+           id="g15385"
+           transform="matrix(0.75757576,0,0,0.75757576,-85.294427,3.8176999)">
+          <path
+             id="path15387"
+             d="M 60.2,50 50,50 50,91.2 60.2,86.1 Z"
+             style="fill:#f58435"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15389"
+             d="m 74.5,21.1 5.2,2.6 0,15.8 -5.2,-1.1 z"
+             style="fill:#f58435"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15391"
+             d="M 64.4,16 50,8.8 50,50 64.4,50 Z"
+             style="fill:#f58435"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15393"
+             d="m 55.5,40.5 19,-2.1 0,-17.3 -19,5.1 z"
+             style="fill:#9d5025"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15395"
+             d="m 79.7,39.5 -18.2,1.7 -6,-0.7 18.8,-2.1 z"
+             style="fill:#6b3b19"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15397"
+             d="M 39.8,50 50,50 50,8.8 39.8,13.9 Z"
+             style="fill:#9d5025"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15399"
+             d="m 25.5,78.9 -5.2,-2.6 0,-15.8 5.2,1.1 z"
+             style="fill:#9d5025"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15401"
+             d="M 35.6,84 50,91.2 50,50 35.6,50 Z"
+             style="fill:#9d5025"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15403"
+             d="m 44.5,59.5 -19,2.1 0,17.3 19,-5.1 z"
+             style="fill:#f58435"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15405"
+             d="m 20.3,60.5 18.2,-1.7 6,0.7 -18.8,2.1 z"
+             style="fill:#fbbf92"
+             transform="translate(167.6785,184.61508)"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="vpc-subnet-container">
+      <title
+         id="title12481">vpc-subnet-container</title>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="250.52255"
+         y="471.98737"
+         id="text12965-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12967-7"
+           x="250.52255"
+           y="471.98737">vpc subnet</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect12969-6"
+         width="130"
+         height="130"
+         x="233.04184"
+         y="347.46176"
+         ry="22.031246"
+         rx="22.031248" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12971-7"
+         y="440.24487"
+         x="220.11833"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="440.24487"
+           x="220.11833"
+           id="tspan12973-9"
+           sodipodi:role="line">VPC</tspan></text>
+      <g
+         transform="matrix(0.38268456,0,0,0.38268456,190.99096,243.4419)"
+         id="use14914">
+        <title
+           id="title15454">opsworks-permissions</title>
+        <g
+           id="g15456"
+           transform="matrix(0.75630252,0,0,0.75630252,142.86344,232.78912)">
+          <g
+             id="g15458" />
+          <g
+             class="st0"
+             id="g15460"
+             style="display:none" />
+          <g
+             id="g15462">
+            <g
+               id="g15464">
+              <g
+                 id="g15466">
+                <path
+                   id="path15468"
+                   d="m 73.9,46.4 0,-17 c 0,-7 -5.7,-12.8 -12.8,-12.8 l -17,0 c -7,0 -12.8,5.7 -12.8,12.8 l 0,17 -8.5,0 0,38.3 59.5,0 0,-38.3 -8.4,0 z m -8.5,0 -25.5,0 0,-13.6 c 0,-4.2 3.4,-7.7 7.7,-7.7 l 10.2,0 c 4.2,0 7.7,3.4 7.7,7.7 l -0.1,13.6 0,0 z"
+                   class="st1"
+                   inkscape:connector-curvature="0"
+                   style="fill:#4b612c" />
+              </g>
+              <g
+                 id="g15470">
+                <path
+                   id="path15472"
+                   d="m 73.9,42.4 0,-17 c 0,-7 -5.7,-12.8 -12.8,-12.8 l -17,0 c -7,0 -12.8,5.7 -12.8,12.8 l 0,17 -8.5,0 0,38.3 59.5,0 0,-38.3 -8.4,0 z m -8.5,0 -25.5,0 0,-13.6 c 0,-4.2 3.4,-7.7 7.7,-7.7 l 10.2,0 c 4.2,0 7.7,3.4 7.7,7.7 l -0.1,13.6 0,0 z"
+                   class="st2"
+                   inkscape:connector-curvature="0"
+                   style="fill:#759c3e" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="ec2-container">
+      <title
+         id="title12360">ec2-container</title>
+      <text
+         sodipodi:linespacing="125%"
+         id="text12286"
+         y="497.74625"
+         x="41.985012"
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="497.74625"
+           x="41.985012"
+           id="tspan12288"
+           sodipodi:role="line">ec2 container</tspan></text>
+      <rect
+         rx="22.031248"
+         ry="22.031246"
+         y="373.22064"
+         x="24.504299"
+         height="130"
+         width="130"
+         id="rect12290"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="11.580791"
+         y="466.00375"
+         id="text12292"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12294"
+           x="11.580791"
+           y="466.00375">EC2</tspan></text>
+      <g
+         transform="matrix(0.50700628,0,0,0.50700628,-72.321325,60.376785)"
+         id="use12611">
+        <path
+           id="path12631"
+           d="m 266.55931,591.94114 c 4.24528,0 7.72641,3.39622 7.72641,7.64151 l 0,30.1415 c 0,4.24529 -3.39623,7.64151 -7.72641,7.64151 l -29.46227,0 c -4.24528,0 -7.72641,-3.39622 -7.72641,-7.64151 l 0,-30.1415 c 0,-4.24529 3.48113,-7.64151 7.72641,-7.64151 l 29.46227,0 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#f58435" />
+        <path
+           style="fill:#9d5025"
+           inkscape:connector-curvature="0"
+           id="path12633"
+           d="m 274.26302,629.68834 0,2.63208 c 0,4.24528 -3.39622,7.64151 -7.72641,7.64151 l 0,-2.63208 c 4.33019,0 7.72641,-3.48113 7.72641,-7.64151 z" />
+        <path
+           id="path12635"
+           d="m 236.75741,637.32985 29.80189,0 0,2.63207 -29.80189,0 z"
+           style="fill:#9d5025"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#9d5025"
+           inkscape:connector-curvature="0"
+           id="path12637"
+           d="m 237.09704,637.32985 0,2.63208 c -4.24528,0 -7.72641,-3.39623 -7.72641,-7.64151 l 0,-2.63208 c 0,4.16038 3.39622,7.64151 7.72641,7.64151 z" />
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -184,9 +428,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="437.78328"
-     inkscape:cy="783.20744"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="981.38608"
+     inkscape:cy="800.63176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -231,14 +475,6 @@
        height="100%"
        transform="translate(-54.548238,-88.289389)" />
     <use
-       id="use33252"
-       xlink:href="#security-group"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%"
-       transform="translate(-36.365493,-362.0407)" />
-    <use
        id="use33283"
        xlink:href="#g23093"
        x="0"
@@ -259,12 +495,72 @@
        id="use33378"
        transform="translate(36.365492,-19.192898)" />
     <use
-       id="use33470"
+       xlink:href="#g15490"
+       id="use15620" />
+    <use
+       xlink:href="#g15510"
+       id="use15642" />
+    <use
+       xlink:href="#g15528"
+       id="use15658" />
+    <use
+       id="use12328"
+       xlink:href="#security-group"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(14.564161,-276.95124)" />
+    <use
+       id="use12359"
+       xlink:href="#auto-scaling-group"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-126.51332,-259.37256)" />
+    <use
+       id="use12389"
+       xlink:href="#availability-zone"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(46.01464,58.825531)" />
+    <use
+       id="use12419"
        xlink:href="#region"
        x="0"
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-42.266543,-247.96956)" />
+       transform="translate(-176.35468,-150.19087)" />
+    <use
+       id="use12462"
+       xlink:href="#elastic-beanstalk-container"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(240.53997,-68.589836)" />
+    <use
+       id="use12516"
+       xlink:href="#vpc-subnet-container"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(239.30952,-67.801226)" />
+    <use
+       xlink:href="#g12711"
+       id="use12737" />
+    <use
+       id="use12324"
+       xlink:href="#ec2-container"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(80.103274,66.848022)" />
   </g>
 </svg>
