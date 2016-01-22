@@ -22,7 +22,9 @@
   <defs
      id="defs13256">
     <symbol
-       id="g22975">
+       id="security-group">
+      <title
+         id="title33135">security-group</title>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -65,7 +67,10 @@
            sodipodi:role="line">SG</tspan></text>
     </symbol>
     <symbol
-       id="g23093">
+       id="g23093"
+       inkscape:label="#auto-scaling-group">
+      <title
+         id="title33173">auto-scaling-group</title>
       <text
          sodipodi:linespacing="125%"
          id="text23042-3"
@@ -99,7 +104,10 @@
            y="465.4675">ASG</tspan></text>
     </symbol>
     <symbol
-       id="g32943">
+       id="g32943"
+       inkscape:label="#availability-zone">
+      <title
+         id="title33212">availability-zone</title>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f58536;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -142,7 +150,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="437.78328"
-     inkscape:cy="742.80134"
+     inkscape:cy="783.20744"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,62 +186,37 @@
     <use
        xlink:href="#g22804"
        id="use22818" />
-    <g
-       id="use22993"
-       transform="translate(-38.385797,-336.3808)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text23042"
-         y="516.30396"
-         x="108.04423"
-         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="516.30396"
-           x="108.04423"
-           id="tspan23044"
-           sodipodi:role="line">security group</tspan></text>
-      <rect
-         rx="22.031248"
-         ry="22.031246"
-         y="391.77835"
-         x="87.533035"
-         height="130"
-         width="130"
-         id="rect23046"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999978, 7.99999978;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         rx="22.031248"
-         ry="22.031244"
-         y="391.77829"
-         x="87.533035"
-         height="130"
-         width="130"
-         id="rect23048"
-         style="fill:none;stroke:#ff0000;stroke-width:1.99999964;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999999, 7.99999999;stroke-dashoffset:8;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.99736023px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="96.832886"
-         y="483.0462"
-         id="text23050"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan23052"
-           x="96.832886"
-           y="483.0462">SG</tspan></text>
-    </g>
     <use
+       id="use33103"
+       xlink:href="#g22975"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-54.548238,-88.289389)" />
+    <use
+       id="use33252"
+       xlink:href="#security-group"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-36.365493,-362.0407)" />
+    <use
+       id="use33283"
        xlink:href="#g23093"
-       id="auto-scaling-group"
-       transform="translate(-171.72593,-318.19805)">
-      <title
-         id="title23124">auto-scaling-group</title>
-    </use>
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-177.44298,-344.46202)" />
     <use
+       id="use33313"
        xlink:href="#g32943"
-       id="availability-zone">
-      <title
-         id="title32980">availability-zone</title>
-    </use>
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-374.95059,120.73613)" />
   </g>
 </svg>
